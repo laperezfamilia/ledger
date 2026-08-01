@@ -4,12 +4,14 @@ owner: jamie
 last_reviewed: 2026-08-01
 depends_on:
 supersedes:
-related: ./BYG-PRD-001-amendments.md, ./BYG-UX-001-amendments.md, ../../governance/GOV-004-product-scope-safety-responsible-use.md
+related: ./BYG-PRD-001-amendments.md, ./BYG-UX-001-amendments.md, ../../governance/GOV-004-product-scope-safety-responsible-use.md, ./BYG-DEC-001-foundation-v1.21.md
 ---
 
 # BYG-DEC-001 — Before You Go Decision Log
 
 **Migration status:** This is an append-only decision log. **Decisions #1–15 have not yet been migrated into `ledger`** — only Decisions #16–18, drafted and locked in the thread that produced them, are present below. This is expected of an append-only log rather than a gap to apologize for; earlier decisions should be appended above this note (in original order) whenever their source content is located, never inserted out of order or edited in place.
+
+**Unresolved lineage flag (2026-08-01):** a complete document self-identified as "BYG-DEC-001, Version 1.21, Round 22" was later received and filed at `./BYG-DEC-001-foundation-v1.21.md`. Its own Decisions #16–18 are "Collections final classification," "Related Ready Pack Suggestions," and "CEFR and Multi-Level Ready Pack architecture" — **different topics under the same numbers** as the #16–18 below. Its Decision #3 (Five-Minute Promise) is never reclassified by anything later in that log, contradicting this file's Decision #17 claim. Per Jamie's explicit instruction, both sources are preserved as-is, unreconciled, until provenance is investigated (tracked in `STATE.md` org debt). Do not assume this content is superseded, incorporated, or still current relative to the newer document — this may represent an earlier/parallel exploration (possibly connected to "Find the Words," referenced in the related UX-001 amendments) that was not carried into the Foundation v1.1 reconciliation, but that is not confirmed.
 
 ---
 

@@ -11,6 +11,8 @@ related: ./BYG-PRD-001.md, ./BYG-UX-001-amendments.md, ../../governance/GOV-004-
 
 **Migration status:** This file holds only §7 (revised) and §7a, drafted within one thread. **It is NOT the complete PRD** — v1.17's other sections have not been migrated into `ledger`. Do not treat this as replacing `./BYG-PRD-001.md` (the base-document stub); once the complete PRD is located, these sections should be merged into it and this amendments file retired/superseded.
 
+**Unresolved lineage flag (2026-08-01):** a document self-identified as "BYG-PRD-001, Version 1.17, Foundation v1.1 Approved Build Authority" was later received in full and filed at `./BYG-PRD-001-foundation-v1.17.md`. Its §7 ("Refine My Ready Pack" — a simple 3-refinement ceiling) and full data model **do not contain** this file's §7 ("Post-Capture Decision Tree & Edit/Refine Allowances," a two-allowance Edit Situation/Refine model) or §7a (Context/Preparation continuity model) in any form. Per Jamie's explicit instruction, this content is preserved as-is, unreconciled with the newer document, until provenance is investigated (tracked in `STATE.md` org debt). Do not assume this content is superseded, incorporated, or still current relative to the newer document.
+
 ---
 
 ## §7 (revised) — Post-Capture Decision Tree & Edit/Refine Allowances

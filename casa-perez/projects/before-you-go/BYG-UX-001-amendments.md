@@ -4,12 +4,14 @@ owner: jamie
 last_reviewed: 2026-08-01
 depends_on: ./BYG-PRD-001-amendments.md, ./BYG-DEC-001.md
 supersedes:
-related: ./BYG-PRD-001.md
+related: ./BYG-PRD-001.md, ./BYG-UX-001-foundation-v1.6.md
 ---
 
 # BYG-UX-001 — Amendment Sections From This Thread
 
 **Migration status:** This file holds only the continuity surface amendments drafted within one thread. **It is NOT the complete UX-001 document** — v1.6's other sections have not been migrated into `ledger`. No base `BYG-UX-001.md` stub exists yet in this repo (UX-001 was not part of the original three-artifact Before You Go migration list — Jamie added it as real content that should be preserved). Once the complete UX-001 is located, create the base file and merge these sections into it, retiring this amendments file.
+
+**Unresolved lineage flag (2026-08-01):** a document self-identified as "BYG-UX-001, Version 1.6, Locked" was later received in full and filed at `./BYG-UX-001-foundation-v1.6.md`. Its navigation is "Prepare | My Ready Packs | Settings" with no Context/Preparation continuity structure — it **does not contain** this file's 5-screen continuity architecture (Home / Preparation / Continue Preparing / Your Life in Spanish / My Preparations) in any form. Per Jamie's explicit instruction, this content is preserved as-is, unreconciled with the newer document, until provenance is investigated (tracked in `STATE.md` org debt). Do not assume this content is superseded, incorporated, or still current relative to the newer document.
 
 ---
 
