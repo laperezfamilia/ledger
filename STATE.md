@@ -11,6 +11,7 @@ Status: proposed technical home for Founder Workspace, per the Principle of Leas
 ## Attention
 
 - First real content migration complete: Agrupa project (canon + active operational docs), GOV-004, partial Before You Go material, and the new Casa Pérez Foundation working index are all in `ledger`.
+- **Historical recovery complete (2026-08-01, per Jamie). Repository considered stable.** Operating posture going forward: future changes should be driven by product development, not retrospective reconciliation, unless new primary-source evidence surfaces. This applies in particular to the still-unresolved Before You Go lineage question (see Org Debt) — it stays parked, not actively worked, until something new shows up.
 
 ## Blocked
 
