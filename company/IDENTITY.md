@@ -40,6 +40,10 @@ If either AI collaborator (or Jamie) discovers that something they built earlier
 
 Don't create an agent, role, or process until it has naturally emerged through repeated work. Future roles under this principle: World Architect (waits for at least two genuinely active worlds — not conceptual ones), Canon Reviewer, Knowledge Curator, Document Link Validator.
 
+## Archive knowledge, not logistics
+
+Operational documents (thread handoffs, sync notes, coordination messages) often contain durable ideas alongside temporary logistics. When migrating or reviewing one: if it holds a durable idea, extract and preserve the idea in the right permanent artifact, with a provenance note. If it's only thread coordination, task management, or temporary status, let it disappear once it's served its purpose — don't preserve the document itself for its own sake.
+
 ## Version 0.1, not finished
 
 This repository, and the company operating system it encodes, is a first version. Earned maturity over "finished" — explicit permission to improve as understanding grows.

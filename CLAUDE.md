@@ -27,6 +27,14 @@ Version 0.1. The scaffold plus a first real batch of migrated content: Agrupa (g
 - Founder Workspace's technical home (`STATE.md` + Reminders/Calendar vs. something else) — proposed, not fully confirmed
 - The repository constitution (governance doc: what belongs here, what's canonical, how changes happen) — deferred until the structure has had time to prove itself
 
+## Evolutionary guidance (Jamie/Solara, 2026-08-01 — not yet actionable, don't restructure around these)
+
+Noted for future sessions so this isn't lost to conversation history, per the repo's own "write it down" discipline. None of these require action now:
+
+- **Philosophy and Governance are different layers** and should grow increasingly distinct as the repo matures. Philosophy answers "what do we believe / what should every product feel like" (hospitality first, belonging before instruction, conversation is the product). Governance answers "how are decisions made / what becomes canon / what's authoritative." `casa-perez/FOUNDATION.md` currently holds philosophy-flavored content; keep this distinction in mind as it and GOV-### documents both grow, without forcing a reorg today.
+- **Character methodology may eventually outgrow `casa-perez/characters/`.** Concepts like the Three Lenses and the Human Recognition Diagnostic (`casa-perez/characters/character-voice-methodology.md`) are starting to function as company-wide methods for understanding people, not just character-writing tools. Current placement is fine; preserve the flexibility to promote them into a broader methodology layer later without changing their meaning.
+- **A future `historical` document status may earn its place** alongside `canon` / `active` / `working` / `pending-migration`, for documents that stop being current but remain historically important (e.g., a superseded master reference). Not being introduced now — the schema's status *values* aren't locked the way its six *fields* are, so this can be added later without a breaking change.
+
 ## Roles
 
 - **Founder (Jamie)** — vision, priorities, tradeoffs, final decisions
