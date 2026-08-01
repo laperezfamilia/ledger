@@ -10,17 +10,20 @@ Obsidian may be used later as an optional editing/viewing layer over this repo. 
 
 ## Current state
 
-Version 0.1. This repo was just scaffolded. Almost nothing has been migrated yet — only the artifacts listed in "What's canon" below. Everything else referenced in conversation, chat history, or other tools (Notion, Docs, etc.) is **not yet canon** until it's migrated here with proper frontmatter.
+Version 0.1. The scaffold plus a first real batch of migrated content: Agrupa (game project), GOV-004, and partial Before You Go material are now in place. The original locked artifacts (Constitution, Design System, Logo Guide, Master Production Tracker, Reverie Method package, and the full BYG base documents) are still pending — see "What's in flux" below.
 
 ## What's canon right now
 
 - This scaffold itself (structure, `IDENTITY.md`, this file, `STATE.md`)
 - `casa-perez/governance/GOV-004-product-scope-safety-responsible-use.md` — Product Scope, Safety & Responsible Use Framework. Cross-product Casa Pérez governance (originated under Before You Go, elevated to cross-product scope by founder decision). Sections 1–5 are the current working-architecture baseline; Section 6 is intentionally deferred to its own design session; Sections 7–11 are not yet drafted — this reflects deliberate sequencing, not incomplete migration. More documents in the GOV-### series are expected.
+- `casa-perez/projects/agrupa/design-constitution.md`, `design-principles-v0.1.md`, `authoring-prompt-v0.3a.md` — Agrupa's (formerly "The No-Name Game") locked design canon. The rest of the Agrupa project record (README, Puzzle Production Ledger, Copy Library, Playtest Log, Master Reference v1.4) is filed as `status: active` — current and authoritative, but not locked-canon in the Constitution sense.
+- `casa-perez/projects/before-you-go/BYG-DEC-001.md` — Decisions #16–18 (append-only log; #1–15 not yet migrated).
 - Nothing else yet — the locked artifacts named in the Casa Pérez knowledge base plan (Constitution, Design System v1, Logo Construction Guide v2.0, Master Production Tracker, Before You Go's three locked foundation docs, the Reverie Method Product 1 Etsy listing package and locked 14-page workbook script) have stub placeholders under their project folders marked `status: pending-migration` — their actual content has not been migrated into this session and must be pulled from wherever Jamie currently holds it.
 
 ## What's in flux
 
-- Everything not yet migrated
+- Everything not yet migrated (see `STATE.md` Org Debt for the current list)
+- `casa-perez/FOUNDATION.md` — a newly-recognized company-wide-for-Casa-Pérez philosophy layer, explicitly `status: working` and non-canonical (Solara's reconstruction index). Distinct from the still-pending Constitution — see that file's header note.
 - Founder Workspace's technical home (`STATE.md` + Reminders/Calendar vs. something else) — proposed, not fully confirmed
 - The repository constitution (governance doc: what belongs here, what's canonical, how changes happen) — deferred until the structure has had time to prove itself
 
@@ -75,14 +78,26 @@ ledger/
     product-process/
     decisions/
   casa-perez/
+    FOUNDATION.md
     brand/
     decisions/
     governance/
     research/
     characters/
+      character-voice-methodology.md
     projects/
       reverie-method/
       agrupa/
+        design-constitution.md
+        design-principles-v0.1.md
+        authoring-prompt-v0.3a.md
+        README.md
+        puzzle-production-ledger.md
+        copy-library.md
+        playtest-log.md
+        master-reference-v1.4.md
+        sofia-observations-bank.md
+        diagnostic-methodology-notes.md
       before-you-go/
       tefs/
 ```
