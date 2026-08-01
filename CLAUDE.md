@@ -15,6 +15,7 @@ Version 0.1. The scaffold plus a first real batch of migrated content: Agrupa (g
 ## What's canon right now
 
 - This scaffold itself (structure, `IDENTITY.md`, this file, `STATE.md`)
+- `company/governance/operating-model.md` — the team's four-phase collaboration model (Discovery → Founder Decision → Synthesis & Handoff → Implementation & Stewardship) and shared principles. Not Casa Pérez product governance — how Jamie, Solara, and Claude work together.
 - `casa-perez/governance/GOV-004-product-scope-safety-responsible-use.md` — Product Scope, Safety & Responsible Use Framework. Cross-product Casa Pérez governance (originated under Before You Go, elevated to cross-product scope by founder decision). Sections 1–5 are the current working-architecture baseline; Section 6 is intentionally deferred to its own design session; Sections 7–11 are not yet drafted — this reflects deliberate sequencing, not incomplete migration. More documents in the GOV-### series are expected.
 - `casa-perez/projects/agrupa/design-constitution.md`, `design-principles-v0.1.md`, `authoring-prompt-v0.3a.md` — Agrupa's (formerly "The No-Name Game") locked design canon. The rest of the Agrupa project record (README, Puzzle Production Ledger, Copy Library, Playtest Log, Master Reference v1.4) is filed as `status: active` — current and authoritative, but not locked-canon in the Constitution sense.
 - `casa-perez/projects/before-you-go/` — **Before You Go's full Foundation v1.1, Approved Build Authority:** `BYG-GOV-001.md` (Product Constitution), `BYG-DES-001.md` (Voice & Design Language), `BYG-PRD-001-foundation-v1.17.md` (MVP Specification), `BYG-UX-001-foundation-v1.6.md` (Screen & Interaction Design), `BYG-DEC-001-foundation-v1.21.md` (Decision Log & Parking Lot). **Important:** older files also exist in this folder — `BYG-PRD-001.md`/`BYG-PRD-001-amendments.md`, `BYG-UX-001-amendments.md`, `BYG-DEC-001.md` — holding earlier partial content that substantially conflicts with the Foundation v1.1 set above (different product architecture, e.g. a Context/Preparation continuity model absent from the current Foundation). Per Jamie's explicit instruction, **do not treat either set as obsolete** until provenance is investigated — see `STATE.md` Org Debt and the lineage notes inside each affected file.
@@ -45,6 +46,8 @@ Noted for future sessions so this isn't lost to conversation history, per the re
 - **Together** — governance coherence: watching for principles without mechanisms, untraceable canon, unlinked superseded decisions
 
 Write access flows through Jamie for now: Solara drafts → Jamie relays or approves → Claude commits. This is a deliberate starting posture, not a permanent restriction.
+
+**Full team operating model:** see `company/governance/operating-model.md` — the four-phase workflow (Discovery → Founder Decision → Synthesis & Handoff → Implementation & Stewardship) these roles operate within, plus shared principles (Truth before elegance, Preserve uncertainty honestly, Recover before recreate, Separate philosophy from governance, Build after clarity). Not Casa Pérez governance — this is how the team itself collaborates.
 
 ## Operating principles
 
@@ -84,6 +87,8 @@ ledger/
     IDENTITY.md
     principles/
     governance/
+      roles.md
+      operating-model.md
     research-methodology/
     product-process/
     decisions/

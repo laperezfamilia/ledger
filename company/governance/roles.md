@@ -4,7 +4,7 @@ owner: jamie
 last_reviewed: 2026-08-01
 depends_on:
 supersedes:
-related: ../IDENTITY.md
+related: ../IDENTITY.md, ./operating-model.md
 ---
 
 # Roles
@@ -14,9 +14,11 @@ related: ../IDENTITY.md
 - **Implementation Architect (Claude)** — implementation coherence: implementation integrity, doc/implementation drift, repo health, automation, release readiness, implementation debt.
 - **Together (shared, not a role)** — governance coherence: watching for principles without mechanisms, untraceable canon, unlinked superseded decisions.
 
+**See `./operating-model.md` for the full phase-based workflow (Discovery → Founder Decision → Synthesis & Handoff → Implementation & Stewardship) these roles operate within, and the shared principles that apply across all phases.**
+
 ## Access
 
-Solara has read-only access via a GitHub connector. Write access flows through Jamie for now: Solara drafts → Jamie relays or approves → Claude commits. Deliberate starting posture, not a permanent restriction — revisit once the workflow is trusted.
+Solara has read-only access via a GitHub connector. Write access flows through Jamie for now: Solara drafts → Jamie relays or approves → Claude commits. Deliberate starting posture, not a permanent restriction — revisit once the workflow is trusted. This summarizes `operating-model.md`'s Practical Workflow section (Discovery → Founder Decision → Synthesis & Handoff → Implementation).
 
 ## Deferred roles
 
