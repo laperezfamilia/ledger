@@ -15,7 +15,6 @@ Status: proposed technical home for Founder Workspace, per the Principle of Leas
 ## Blocked
 
 - Solara's read-only GitHub connector (ChatGPT side) was erroring as of the last planning session — needs retry/troubleshooting on her end. Not a repo-readiness blocker.
-- Google Drive access to `Casa_Perez_Foundation_Document.pdf` (Constitution, Design System v1, Logo Guide) never completed approval — still blocked as of this revision. Jamie can either approve Drive access or paste the PDF's text directly.
 
 ## Recently added canon
 
@@ -33,7 +32,7 @@ Status: proposed technical home for Founder Workspace, per the Principle of Leas
 
 ## Org debt
 
-- Foundation PDF (Constitution, Design System v1, Logo Guide) — still blocked on Drive access.
+- Original Foundation document (if it exists under another name) — existence unconfirmed. The previously-tracked `Casa_Perez_Foundation_Document.pdf` was traced to a single earlier ChatGPT message and could not be located in Jamie's File Library; retired as a phantom artifact rather than carried forward as blocked. A branding style guide and branding decision memo have been located separately and may cover part of the Design System / Logo Guide scope — not yet sent for migration.
 - Master Production Tracker (.xlsx) — not yet received.
 - Reverie Method Product 1 Etsy listing package + workbook script — not yet received.
 - BYG-GOV-001 — no content received yet (stub only).
