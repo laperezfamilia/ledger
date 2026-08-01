@@ -102,7 +102,7 @@ Numbering begins at **001** with the current, digital, AI-authored workflow (Wor
 
 **Full session records now live in the Agrupa Playtest Log ("Coffee Shop (Prototype 0.2)" section) — this is a status summary only, not the raw record.**
 
-Four sessions to date: John (transient self-corrected slip, full solve, positive), Brandon (clean 100% first-attempt solve, positive), Ava (mostrador gloss finding, corrected — see Section C), Claire (English-translation legibility observation, monitoring, no change approved pending recurrence; "start over" question resolved as non-issue). **Also from this testing period: Julie and Denham gave Coffee Shop feedback that contributed to the founder decision to retire the original board — see `./playtest-log.md` for the tracked gap; session-level detail not yet recorded.**
+Six sessions to date: John (transient self-corrected slip, full solve, positive), Brandon (clean 100% first-attempt solve, positive), Ava (mostrador gloss finding, corrected — see Section C), Claire (English-translation legibility observation, monitoring, no change approved pending recurrence; "start over" question resolved as non-issue), Julie (loved the game, suggested solved-group colors / One Away / duplicate-guess feedback, positive on classroom suitability), Denham (suggested "missed tries" framing, more encouraging in-game feedback, reduced onboarding friction). **Julie and Denham's suggestions plausibly map to several since-built features (solved-group colors, One Away, duplicate-guess protection, onboarding, removal of the confusing mistake counter) — see `./playtest-log.md` for the full detail and the caveat that this provenance link isn't confirmed, just plausible.**
 
 **Related open finding (not Coffee-Shop-specific):** How to Play does not currently explain that Play Again reshuffles the same sixteen Tiles, or that switching English-support mode between attempts allows self-adjusted difficulty. Tracked in Beta Findings Log; not a defect of this board.
 
@@ -121,7 +121,7 @@ Four sessions to date: John (transient self-corrected slip, full solve, positive
 - Eligible for future paid archive: Pending — requires Approved status; currently Testing pending gloss correction
 - Eligible for curated pack: Not yet evaluated
 - Classroom suitability: Not yet evaluated
-- Open issues: mostrador gloss correction not yet built/re-verified; Julie/Denham session detail not yet recorded
+- Open issues: mostrador gloss correction not yet built/re-verified
 
 ---
 

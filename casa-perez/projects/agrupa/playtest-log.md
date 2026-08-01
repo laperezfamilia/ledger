@@ -49,12 +49,24 @@ Puzzle: Coffee Shop · Build: Prototype 0.2
 - Asked "do I start over with a new game?" after solving — resolved as a first-time-tester check-in, not confusion; she had already seen Reflection and "Play again" correctly.
 - Informs: Ledger Entry 001, Section E (legibility finding, distinct from Restaurant's font-size finding below — do not conflate).
 
-**Sessions — Julie and Denham (open gap, added during `ledger` migration)**
-Puzzle: Coffee Shop-era, exact board/build unconfirmed · Two separate testers
-- Solara recalled (via reconciliation memo) that Jamie discussed feedback from Julie and Denham during the Coffee Shop testing period, and that their feedback contributed to the founder decision to retire the original Coffee Shop board due to recurring ambiguity.
-- **No session notes exist yet to reconstruct which exact build they tested, their complete observations, or whether their comments differed from the other testers.** Per Solara's own caution: "I don't want to invent details that aren't supported by the record."
-- Jamie has confirmed she remembers the feedback both gave and can provide it — **not yet recorded as of this revision.**
-- Informs: Ledger Entry 001, Section E (original-board retirement rationale, partial evidentiary basis) — pending detail.
+**Session — Julie**
+Puzzle: Coffee Shop-era · Exact board/build not specified in the recovered record
+- Loved the game.
+- Suggested colored tiles once a group is solved correctly.
+- Suggested proximity/status feedback: "one away" and "you already tried that."
+- Thought the game was good for learning — personally, and also suggested it as good for classroom/school use.
+- **Downstream connection (added during `ledger` migration):** several of these suggestions match features later shipped and recorded as "Built" in `./README.md` Section 3 — solved-group complementary colors, One Away feedback, and duplicate-guess protection. Whether Julie's feedback directly drove those builds or simply anticipated independently-planned features is not confirmed by the record; noted as a plausible provenance link, not a verified one.
+- Informs: Ledger Entry 001, Section E (original-board retirement rationale); README Section 3 (built features); classroom-suitability consideration (see Ledger Entry eligibility notes).
+
+**Session — Denham**
+Puzzle: Coffee Shop-era · Exact board/build not specified in the recovered record
+- Suggested changing the mistake indicator to a "missed tries" framing.
+- Suggested more encouraging feedback throughout the game, not just at completion.
+- Suggested reducing onboarding friction.
+- **Downstream connection (added during `ledger` migration):** matches later-built features — the confusing "0/4, 1/4..." submit-button counter was removed (README Section 3), and hamburger-menu "How to Play" onboarding access was added (README Section 3). Same caveat as Julie's session: plausible provenance, not confirmed causal record.
+- Informs: Ledger Entry 001, Section E (original-board retirement rationale); README Section 3 (built features).
+
+**Provenance note on both sessions:** recovered from Jamie's direct recollection, prompted by a gap Solara flagged during `ledger` migration ("I remember the feedback but don't have separate session notes to reconstruct exact build or complete detail"). Exact date, build version, and full verbatim detail are not available — this is Jamie's summary recollection, not a contemporaneous transcript, unlike the other sessions in this log.
 
 ---
 
@@ -111,4 +123,3 @@ No sessions yet — content fully approved and locked (la receta resolved, Jamie
 
 - **Restaurant font-size/accessibility:** needs a larger-text treatment evaluated (Tile dimensions, spacing, clue-length limits, or a dedicated accessibility setting) without introducing clipping or crowding. Preserve current build as tested baseline.
 - **Restaurant needs first-time-Agrupa-user testers** — all current Restaurant sessions involved testers with prior Coffee Shop exposure, which confounds difficulty/speed readings. Priority for next test round.
-- **Julie and Denham's Coffee Shop-era sessions** — real testers, feedback contributed to the original board's retirement, but no session-level detail recorded yet. Jamie has confirmed she can supply this; add here once received.
