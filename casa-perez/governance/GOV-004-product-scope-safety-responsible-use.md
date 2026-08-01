@@ -4,12 +4,14 @@ owner: jamie
 last_reviewed: 2026-08-01
 depends_on:
 supersedes:
-related: ../projects/before-you-go/
+related: ../projects/before-you-go/, ../projects/before-you-go/BYG-GOV-001.md
 ---
 
 # GOV-004 — Product Scope, Safety & Responsible Use Framework
 
 **Provenance note (not part of the locked text below):** originated as Before You Go-scoped work but was identified by Jamie and Solara as cross-product governance for Casa Pérez's conversational products generally, not one app — elevated into Casa Pérez governance accordingly. Ingested in its current state; the deferred/undrafted status of Sections 6–11 is preserved exactly as written and should not be read as an incomplete migration.
+
+**Lineage note, added 2026-08-01:** the available evidence indicates that the governance work originally anticipated as `BYG-GOV-001` was ultimately realized as this document after the scope expanded from a product-specific governance document to a broader conversational-product governance document. This is not a claim that a document literally named BYG-GOV-001 was renamed — no such document has been located or confirmed to have existed independently — only that the planned governance artifact was fulfilled by this one. See `../projects/before-you-go/BYG-GOV-001.md` for the full reasoning.
 
 ---
 

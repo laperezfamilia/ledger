@@ -25,6 +25,7 @@ Status: proposed technical home for Founder Workspace, per the Principle of Leas
 - `casa-perez/projects/before-you-go/BYG-DEC-001.md` (Decisions #16–18), `BYG-PRD-001-amendments.md` (§7/§7a), `BYG-UX-001-amendments.md` (continuity surfaces) — all explicitly partial, flagged as such.
 - Julie and Denham's Coffee Shop-era playtest feedback recorded in `casa-perez/projects/agrupa/playtest-log.md` (Jamie's recollection, not a contemporaneous transcript) — closes the gap flagged during the earlier migration.
 - `casa-perez/brand/branding-style-guide.md` (canon) and `casa-perez/decisions/DEC-CP-001-wreath-permanent-brand-element.md` (canon, first Casa Pérez decision log entry) — transcribed from two image artifacts Jamie located directly, replacing the retired phantom PDF as this content's real source.
+- `casa-perez/projects/before-you-go/BYG-GOV-001.md` — closed as a fulfilled placeholder (`status: fulfilled`), not pending migration. Evidence (BYG-PRD-001's own §7 citing GOV-004 §6 directly, GOV-004's content matching Before You Go's actual product, Jamie's real-time observation) indicates the governance work anticipated for this document was realized as GOV-004 rather than surviving as a separate artifact. See that file for full reasoning; reopen only if new evidence surfaces.
 
 ## Dependencies
 
@@ -37,7 +38,6 @@ Status: proposed technical home for Founder Workspace, per the Principle of Leas
 - A fuller Design System or Logo Construction Guide (clear-space rules, minimum sizing, misuse examples) — unconfirmed whether one exists beyond the branding style guide now in `ledger`.
 - Master Production Tracker (.xlsx) — not yet received.
 - Reverie Method Product 1 Etsy listing package + workbook script — not yet received.
-- BYG-GOV-001 — no content received yet (stub only).
-- Complete BYG-DEC-001 (#1–15), complete BYG-PRD-001 (v1.17), complete BYG-UX-001 (v1.6) — only partial/amendment content received so far.
+- Complete BYG-DEC-001 (#1–15), complete BYG-PRD-001 (v1.17), complete BYG-UX-001 (v1.6) — confirmed to exist (self-referenced by their own amendment documents), only partial/amendment content received so far.
 - Sofía Pérez Voice Brief + Addendum, Diagnostic Protocol v0.2, Recognition Model v0.1, PBO Evidence Log, Version 0.2 Early Access Findings — per Solara's reconciliation, these are embedded knowledge distributed across conversation history, not missing standalone artifacts. Not treated as outstanding migration debt unless/until Jamie and Solara decide to formally extract them.
 - Repository constitution (governance doc) not yet written — deferred until structure proves itself.
