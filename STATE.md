@@ -30,7 +30,7 @@ Status: proposed technical home for Founder Workspace, per the Principle of Leas
 
 - `casa-perez/brand/constitution.md` (pending) and `casa-perez/FOUNDATION.md` (working) are deliberately kept separate per Jamie's decision — the branding style guide's arrival doesn't change this; it's Design System / Logo Guide material, not Constitution material.
 - BYG-PRD-001-amendments.md and BYG-UX-001-amendments.md are meant to be merged into their base documents once those are located, then retired.
-- `casa-perez/brand/design-system-v1.md` and `logo-construction-guide-v2.md` now point to `branding-style-guide.md` as likely covering most of their intended scope — worth confirming with Jamie whether those stubs should just be retired rather than kept open indefinitely.
+- `casa-perez/brand/design-system-v1.md` and `logo-construction-guide-v2.md` now marked "provisionally satisfied" by `branding-style-guide.md` — kept open, not retired, per Jamie's explicit decision (insufficient evidence yet that fuller versions never existed separately).
 
 ## Org debt
 

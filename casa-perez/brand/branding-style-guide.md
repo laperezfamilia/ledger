@@ -13,13 +13,15 @@ related: ./design-system-v1.md, ./logo-construction-guide-v2.md, ../decisions/DE
 
 ---
 
-![Casa Pérez branding style guide](./assets/branding-style-guide.png)
+![Casa Pérez branding decision memo — current canonical primary mark, with wreath](./assets/branding-decision-memo-wreath.png)
 
 ## Primary Mark
 
-An arched doorway (sage-green door, dark green frame) flanked by two potted plants, with a sunburst of rays above the arch. Wordmark below: **Casa Pérez** (large, dark green serif) over **SPANISH** (smaller, letter-spaced sans-serif), flanked by small decorative dashes.
+**Current canonical version (confirmed by Jamie): the primary mark includes the wreath.** An arched doorway (sage-green door, dark green frame) with a permanent handcrafted greenery wreath on the door, flanked by two potted plants, with a sunburst of rays above the arch. Wordmark below: **Casa Pérez** (large, dark green serif) over **SPANISH** (smaller, letter-spaced sans-serif), flanked by small decorative dashes. See `../decisions/DEC-CP-001-wreath-permanent-brand-element.md` for the decision record and rationale.
 
-**With wreath:** the locked primary mark includes a permanent handcrafted greenery wreath on the door — see `../decisions/DEC-CP-001-wreath-permanent-brand-element.md` for the decision record. The style-guide image above predates that decision being visually finalized; the decision memo's version (`./assets/branding-decision-memo-wreath.png`) shows the wreath in place and is the more current reference for the primary mark's current form.
+**Earlier design-evolution stage, not current identity:** the style-guide image (below) shows the mark without the wreath. This is an earlier stage of the mark's development, superseded by the wreath decision — not an equally valid alternate version. Kept here for historical/evolution reference only.
+
+![Casa Pérez branding style guide — earlier design stage, without wreath](./assets/branding-style-guide.png)
 
 ## Badge Variations
 
