@@ -15,6 +15,7 @@ Version 0.1. This repo was just scaffolded. Almost nothing has been migrated yet
 ## What's canon right now
 
 - This scaffold itself (structure, `IDENTITY.md`, this file, `STATE.md`)
+- `casa-perez/governance/GOV-004-product-scope-safety-responsible-use.md` — Product Scope, Safety & Responsible Use Framework. Cross-product Casa Pérez governance (originated under Before You Go, elevated to cross-product scope by founder decision). Sections 1–5 are the current working-architecture baseline; Section 6 is intentionally deferred to its own design session; Sections 7–11 are not yet drafted — this reflects deliberate sequencing, not incomplete migration. More documents in the GOV-### series are expected.
 - Nothing else yet — the locked artifacts named in the Casa Pérez knowledge base plan (Constitution, Design System v1, Logo Construction Guide v2.0, Master Production Tracker, Before You Go's three locked foundation docs, the Reverie Method Product 1 Etsy listing package and locked 14-page workbook script) have stub placeholders under their project folders marked `status: pending-migration` — their actual content has not been migrated into this session and must be pulled from wherever Jamie currently holds it.
 
 ## What's in flux
@@ -76,6 +77,7 @@ ledger/
   casa-perez/
     brand/
     decisions/
+    governance/
     research/
     characters/
     projects/
