@@ -24,15 +24,17 @@ Status: proposed technical home for Founder Workspace, per the Principle of Leas
 - `casa-perez/FOUNDATION.md` — Solara's Casa Pérez philosophy reconstruction index (working, explicitly non-canonical, distinct from the still-pending Constitution).
 - `casa-perez/projects/before-you-go/BYG-DEC-001.md` (Decisions #16–18), `BYG-PRD-001-amendments.md` (§7/§7a), `BYG-UX-001-amendments.md` (continuity surfaces) — all explicitly partial, flagged as such.
 - Julie and Denham's Coffee Shop-era playtest feedback recorded in `casa-perez/projects/agrupa/playtest-log.md` (Jamie's recollection, not a contemporaneous transcript) — closes the gap flagged during the earlier migration.
+- `casa-perez/brand/branding-style-guide.md` (canon) and `casa-perez/decisions/DEC-CP-001-wreath-permanent-brand-element.md` (canon, first Casa Pérez decision log entry) — transcribed from two image artifacts Jamie located directly, replacing the retired phantom PDF as this content's real source.
 
 ## Dependencies
 
-- `casa-perez/brand/constitution.md` (pending) and `casa-perez/FOUNDATION.md` (working) are deliberately kept separate per Jamie's decision — do not merge until the original Constitution PDF is recovered.
+- `casa-perez/brand/constitution.md` (pending) and `casa-perez/FOUNDATION.md` (working) are deliberately kept separate per Jamie's decision — the branding style guide's arrival doesn't change this; it's Design System / Logo Guide material, not Constitution material.
 - BYG-PRD-001-amendments.md and BYG-UX-001-amendments.md are meant to be merged into their base documents once those are located, then retired.
+- `casa-perez/brand/design-system-v1.md` and `logo-construction-guide-v2.md` now point to `branding-style-guide.md` as likely covering most of their intended scope — worth confirming with Jamie whether those stubs should just be retired rather than kept open indefinitely.
 
 ## Org debt
 
-- Original Foundation document (if it exists under another name) — existence unconfirmed. The previously-tracked `Casa_Perez_Foundation_Document.pdf` was traced to a single earlier ChatGPT message and could not be located in Jamie's File Library; retired as a phantom artifact rather than carried forward as blocked. A branding style guide and branding decision memo have been located separately and may cover part of the Design System / Logo Guide scope — not yet sent for migration.
+- A fuller Design System or Logo Construction Guide (clear-space rules, minimum sizing, misuse examples) — unconfirmed whether one exists beyond the branding style guide now in `ledger`.
 - Master Production Tracker (.xlsx) — not yet received.
 - Reverie Method Product 1 Etsy listing package + workbook script — not yet received.
 - BYG-GOV-001 — no content received yet (stub only).
