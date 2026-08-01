@@ -13,6 +13,8 @@ related: ./BYG-PRD-001.md, ./BYG-UX-001-foundation-v1.6.md
 
 **Unresolved lineage flag (2026-08-01):** a document self-identified as "BYG-UX-001, Version 1.6, Locked" was later received in full and filed at `./BYG-UX-001-foundation-v1.6.md`. Its navigation is "Prepare | My Ready Packs | Settings" with no Context/Preparation continuity structure — it **does not contain** this file's 5-screen continuity architecture (Home / Preparation / Continue Preparing / Your Life in Spanish / My Preparations) in any form. Per Jamie's explicit instruction, this content is preserved as-is, unreconciled with the newer document, until provenance is investigated (tracked in `STATE.md` org debt). Do not assume this content is superseded, incorporated, or still current relative to the newer document.
 
+**Naming-timeline correction (2026-08-01, per Solara):** the "Naming note" below, written at the time this content was drafted, describes "Find the Words" as a newly-adopted working name — which read, at first glance, like an earlier phase preceding "Before You Go." Per Solara, that direction is backwards: **Before You Go was the original working title; Find the Words is the later/current internal project name.** This corrects the naming timeline only — it does not resolve whether this file's Context/Preparation content is a later evolution of Foundation v1.1, a parallel/experimental branch, or was superseded before implementation.
+
 ---
 
 ## Screen 1 — Home
