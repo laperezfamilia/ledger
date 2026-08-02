@@ -34,6 +34,20 @@ Our current hypothesis is: *"We may be discovering the foundations of a repeatab
 
 Those are intentionally different statements. This program exists to preserve that distinction — optimized for preserving observations, experiments, evidence, uncertainty, and future replication, not for producing conclusions.
 
+## Proposed Working Thesis (2026-08-01)
+
+**Status: Working Thesis — a research direction to test, refine, challenge, or disprove, not a validated conclusion. Not established methodology, governance, or canon.**
+
+> Character Architecture is the discipline of discovering and preserving human identity with enough fidelity that an AI can participate in long-term relationships while remaining recognizably faithful to the identity it embodies.
+
+**Context:** emerged from the Discovery/Preservation working observation (`./research-log.md`, 2026-08-01) — Discovery ("how do we recognize a person?") and Preservation ("how do we preserve that discovered person with enough fidelity that future collaborators, implementations, and AI interactions continue to recognize the same identity over time?"). The four-part documentation convention above is understood as one practical answer to the Preservation half.
+
+**Why this matters:** the objective is not merely AI characters that remain "in character." The aspiration is identity preserved with enough fidelity that people experience continuity over time and naturally feel *"that still feels like Sofía."* This shifts the emphasis from consistency of output to faithfulness of identity.
+
+**Test case:** Experiment 2 (Beto) is the first substantial test of whether this thesis holds beyond Sofía. Future experiments should actively attempt to strengthen, refine, challenge, or disprove it — not simply confirm it. See `./open-questions.md`.
+
+*(`ledger` note: this thesis's "AI participating in long-term relationships" framing overlaps with `../README.md`'s Research Program 3 — Relational Design ("How do we design AI relationships that strengthen people's relationships with themselves and with other people?"). Noted as a cross-program connection worth watching, not merged — Program 1 is about identity fidelity specifically; Program 3 is broader.)*
+
 ## Structure
 
 ```

@@ -46,3 +46,7 @@ The same underlying instinct appears to have emerged independently in three sepa
 **Why this feels important (their words, preserved as stated, not independently verified):** discovering a person and preserving a discovered person may be different problems. Many creative methodologies focus primarily on discovery; this may be gradually surfacing a complementary discipline devoted to long-term preservation of character identity. If it continues to hold through additional experiments, it may become one of the defining contributions of Character Architecture.
 
 **No methodology changes requested beyond the already-approved documentation convention.** Test case: Experiment 2 (Beto) — the first meaningful opportunity to test whether the Discovery/Preservation distinction continues to hold, or turns out to be a false split. See `./open-questions.md`.
+
+## 2026-08-01 — Proposed Working Thesis for the whole program
+
+Full text recorded at `../README.md`, "Proposed Working Thesis (2026-08-01)" — not duplicated here. Summary: Character Architecture is the discipline of discovering and preserving human identity with enough fidelity that an AI can participate in long-term relationships while remaining recognizably faithful to the identity it embodies. Builds directly on this log's Discovery/Preservation entry above. **Status: Working Thesis, explicitly a research direction to test rather than a validated conclusion** — not methodology, governance, or canon. Test case: Experiment 2 (Beto).
