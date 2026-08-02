@@ -44,7 +44,7 @@ This document is the high-level map. Over time, each research program can grow i
 
 **Working Hypothesis:** Belonging, meaningful interaction, contextual learning, and psychologically safe practice produce stronger conversational ability than traditional grammar-first instruction alone.
 
-**Program folder:** not yet created. *(`ledger` note: likely connects to "Jamie's Instructional Philosophy," currently a discovery draft inside `casa-perez/projects/agrupa/master-reference-v1.4.md` §3 — not confirmed the same material, flagged for whoever migrates the educational discovery thread.)*
+**Program folder:** `./educational-philosophy/` — created 2026-08-02, currently holds one file: `./educational-philosophy/educational-research-sources.md` (proposed, not yet adopted). This is **not** the full educational discovery thread — the rest of the Educational Brief remains pending migration (see `STATE.md` Org Debt). *(`ledger` note: likely connects to "Jamie's Instructional Philosophy," currently a discovery draft inside `casa-perez/projects/agrupa/master-reference-v1.4.md` §3 — not confirmed the same material, flagged for whoever migrates the rest of the educational discovery thread.)*
 
 ---
 

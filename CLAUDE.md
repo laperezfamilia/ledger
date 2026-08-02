@@ -100,6 +100,9 @@ ledger/
           sofia.md
           sofia-2026-08-01-architectural-synthesis.md
           sofia-character-architecture-reference-v1.0.md
+          sofia-teaching-philosophy.md
+      educational-philosophy/
+        educational-research-sources.md
     product-process/
     decisions/
   casa-perez/
