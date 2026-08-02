@@ -72,7 +72,7 @@ This document is the high-level map. Over time, each research program can grow i
 
 **Working Hypothesis:** People learn more effectively when they first experience psychological safety, hospitality, and belonging rather than performance pressure.
 
-**Program folder:** not yet created. *(`ledger` note: directly resonant with `casa-perez/FOUNDATION.md`'s Core Founder Principle — "Belong → Relax → Engage → Learn" — and the Hospitality Test. That file is a working, non-canonical reconstruction index, not this research program itself; the two should stay cross-referenced, not merged.)*
+**Program folder:** not yet created. *(`ledger` note: `casa-perez/FOUNDATION.md`'s Core Founder Principle — "Belong → Relax → Engage → Learn" — and the Hospitality Test are the **foundational design principle implementing this hypothesis. Evidence for the hypothesis will come from future observation, not from the design decision itself.** Research Question → Founder Design Decision → Implementation are three distinct layers; FOUNDATION.md sits at the design layer, not the evidence layer.)*
 
 ---
 
@@ -86,7 +86,7 @@ This document is the high-level map. Over time, each research program can grow i
 
 **Working Hypothesis:** Recognizing meaningful real-world situations and relationships may strengthen language acquisition more effectively than isolated vocabulary memorization or repetitive drills.
 
-**Program folder:** not yet created. *(`ledger` note: Agrupa's own locked Design Constitution — Principle 1, "Recognition Over Categorization" — and Design Principles v0.1 already encode this hypothesis at the product level. See `casa-perez/projects/agrupa/README.md`, Section 8 "Research Status" for the product's own evidence tracking, e.g. RCL-003. That's product-level validated/working evidence; this program is the company-level research question it serves.)*
+**Program folder:** not yet created. *(`ledger` note: Agrupa's own locked Design Constitution — Principle 1, "Recognition Over Categorization" — and Design Principles v0.1 **record the intentional design of recognition-based learning; that is implementation, not evidence the hypothesis is true.** Evidence comes from Agrupa's own playtesting and research tracking — see `casa-perez/projects/agrupa/README.md`, Section 8 "Research Status," e.g. RCL-003 — which is real evidence at the product level, distinct from the design decision that made the product testable in the first place.)*
 
 ---
 
@@ -100,9 +100,21 @@ This document is the high-level map. Over time, each research program can grow i
 
 **Working Hypothesis:** Reducing uncertainty immediately before real conversations increases willingness to speak while simultaneously improving retention through authentic use.
 
-**Program folder:** not yet created. *(`ledger` note: "Find the Words" is Before You Go's later/current internal project name — see `casa-perez/projects/before-you-go/` for the product's Foundation v1.1 documents, filed under the `BYG-` prefix. Naming kept as given here; not renamed to avoid colliding with the still-unresolved lineage question tracked in `STATE.md` org debt.)*
+**Program folder:** not yet created. *(`ledger` note: "Find the Words" is Before You Go's later/current internal project name — see `casa-perez/projects/before-you-go/` for the product's Foundation v1.1 documents, filed under the `BYG-` prefix. Naming kept as given here; not renamed to avoid colliding with the still-unresolved lineage question tracked in `STATE.md` org debt. **This product operationalizes the hypothesis; future usage data and observation will determine whether the hypothesis is supported** — the Foundation documents are the design decision, not the evidence.)*
 
 ---
+
+## Planned Addition (Not Yet Implemented)
+
+Per Jamie, eventually each research program above should carry its own **"Current Sources of Evidence"** subsection — not conclusions, just links to where evidence for that program currently lives. Example shape (illustrative, not yet built):
+
+> **Character Architecture — Current Evidence**
+> - Sofía (Experiment 1)
+> - Beto (Experiment 2, planned)
+> - Character Voice methodology
+> - Observation Bank
+
+This turns the index from a list of documents into a maintained **chain of evidence** per research question — distinct from, and layered underneath, the design-decision cross-references already present above (Research Question → Founder Design Decision → Implementation → **Evidence**, the fourth layer). Not built tonight; noted here so the intent isn't lost before it's implemented.
 
 ## Shared Research Philosophy
 
