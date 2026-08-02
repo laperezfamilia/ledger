@@ -34,3 +34,15 @@ Recorded in full at `./experiments/sofia-2026-08-01-architectural-synthesis.md`.
 ## 2026-08-01 — Cross-domain observation: concrete example over abstract description (not yet elevated to methodology)
 
 The same underlying instinct appears to have emerged independently in three separate places, before anyone named it as a pattern: (1) this program's own "behaviors reveal character more reliably than adjectives" finding; (2) Agrupa's Dialogue Approval Rule, requiring any proposed line of Sofía's dialogue to be reviewed as an actual quotation rather than approved as an abstract description of intended effect (`casa-perez/projects/agrupa/copy-library.md`); (3) the discovery, during the 2026-08-01 Sofía synthesis session, that architectural principles become significantly more durable when anchored to lived scenes. **Explicitly not elevated into methodology** — Jamie & Solara were clear this observation alone doesn't warrant that. It was, however, judged strong enough evidence to justify a documentation-convention change: see `../README.md`'s "Documentation Convention (Approved 2026-08-01)" — Principle → Canonical Example(s) → Interpretation, now the working standard for future Character Architecture handoffs.
+
+## 2026-08-01 — Working observation: Character Architecture may be two distinct disciplines (Discovery and Preservation)
+
+**Status: Working research observation, not a validated methodological conclusion.** Jamie & Solara realized they had been unconsciously treating Character Architecture as one discipline — no longer confident that's accurate.
+
+**Half One — Discovery.** Question: *How do we recognize a person?* The work of observation, conversation, pressure-testing, founder calibration, and evidence gathering until a coherent person begins to emerge. The output is not a specification. It is recognition.
+
+**Half Two — Preservation.** Question: *How do we preserve a discovered person with enough fidelity that future collaborators can recognize the same person years later?* Appears to require a different set of practices than discovery itself. The four-part documentation convention (`../README.md`) is understood as a possible answer to this second question specifically — its purpose is not simply better documentation, but preserving recognition across time, collaborators, and future implementation.
+
+**Why this feels important (their words, preserved as stated, not independently verified):** discovering a person and preserving a discovered person may be different problems. Many creative methodologies focus primarily on discovery; this may be gradually surfacing a complementary discipline devoted to long-term preservation of character identity. If it continues to hold through additional experiments, it may become one of the defining contributions of Character Architecture.
+
+**No methodology changes requested beyond the already-approved documentation convention.** Test case: Experiment 2 (Beto) — the first meaningful opportunity to test whether the Discovery/Preservation distinction continues to hold, or turns out to be a false split. See `./open-questions.md`.
