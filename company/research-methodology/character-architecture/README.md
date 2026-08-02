@@ -47,15 +47,29 @@ character-architecture/
     (beto.md, when Beto's independent discovery process begins — Experiment 2)
 ```
 
-## Documentation Convention (Approved 2026-08-01)
+## Documentation Convention (Founder Decision — revised 2026-08-01)
 
-**Working standard for future Character Architecture architectural handoffs.** Every significant architectural principle recorded in this program should have three parts:
+**Revision note:** this convention was first approved earlier the same day as a three-part format (Principle / Canonical Example(s) / Interpretation). Founder discussion refined it further, same day, into the four-part format below — recorded here as the current version, with the prior version's reasoning preserved in the "Why this is the standard" section, since the refinement built on it rather than replacing it.
+
+**Working standard for future Character Architecture architectural handoffs.** Every significant architectural principle recorded in this program should have four parts:
 
 1. **Principle** — the architectural conclusion.
-2. **Canonical Example(s)** — one or two short scenes that demonstrate the principle. Embedded directly with the principle, never separated into another document — a principle read without its anchor drifts back into being just an adjective.
-3. **Interpretation** — why those examples support the principle and how they should guide future implementation. **Discipline required here:** Interpretation explains why the example supports the principle; it must never become a place where new, unvalidated claims quietly enter the architecture. This preserves "resist premature synthesis" (below) at the sentence level, not just the document level.
+2. **Foundational Scene** — the specific scene that caused the principle to be recognized in the first place. This is the primary evidence that changed understanding of the character, not merely a supporting illustration.
+3. **Supporting Scene(s)** — additional scenes that consistently reinforce the principle. These strengthen calibration without introducing new conclusions.
+4. **Interpretation** — a disciplined explanation of why the evidence supports the principle and how it should guide future implementation. **Interpretation explains the evidence — it must never introduce new architectural claims.** This preserves "resist premature synthesis" (below) at the sentence level, not just the document level.
+
+All examples stay embedded directly with their principle, never separated into another document — a principle read without its anchor drifts back into being just an adjective.
+
+**Evidentiary weight distinction (working methodological refinement, not yet a research conclusion):** not all examples carry equal weight. Distinguish:
+- **Foundational Evidence** — the scene that led to the discovery.
+- **Supporting Evidence** — scenes that reinforce an already-established discovery.
+- **Illustrative Examples** — scenes that fit the principle but did not materially contribute to discovering it.
+
+Character Architecture documents should primarily preserve Foundational and Supporting Evidence. Illustrative examples may remain available for future writing but should not be confused with the evidence that actually established the principle.
 
 **Why this is the standard, not just a preference:** this same underlying instinct — concrete example over abstract description — had already emerged independently in three places before being named as a convention: this program's own "behaviors reveal character more reliably than adjectives" (`./research-log.md`), Agrupa's Dialogue Approval Rule ("any proposed line must be presented as an actual quotation... not approved as an abstract description of intended effect" — `casa-perez/projects/agrupa/copy-library.md`), and the discovery that architectural principles become significantly more durable when anchored to lived scenes (Sofía synthesis, `./experiments/sofia-2026-08-01-architectural-synthesis.md`). Those three independent emergences are **not** being elevated into methodology yet — but they were strong enough evidence to justify changing the documentation convention itself.
+
+**A principle worth the anchor, as illustration of why this matters:** "Sofía is emotionally warm and socially confident" will drift over time — different writers imagine those adjectives differently. Anchored to a Foundational Scene ("Wait… you were saying?"), it becomes stable, because future writing can be calibrated by resemblance rather than personal interpretation.
 
 **Character voice is calibrated by resemblance, not pass/fail.** A canonical example functions as a reference anchor to compare new writing against ("does this feel closer to the example, or does it drift?"), not a test with a binary pass/fail outcome the way `casa-perez/projects/agrupa/design-principles-v0.1.md`'s Operational Tests work for puzzle design. Same three-part shape (Principle → Rationale/Interpretation → Test/Example), adapted correctly for character work.
 
