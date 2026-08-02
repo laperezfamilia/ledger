@@ -69,6 +69,19 @@ Jamie & Solara's observation: explicitly recording lifecycle-state transitions m
 
 **Test case:** Experiment 2 (Beto) — the first opportunity to see whether this lifecycle model reinforces or needs to be challenged/revised. See `./open-questions.md`.
 
+## 2026-08-02 — Cross-program convergence: Character Architecture × Educational Architecture
+
+**Status: Working observation, not established methodology.** Surfaced during a Design Research discovery session (see `../design-research/README.md`), not during a character-specific experiment — recorded here because the claim is about Character Architecture itself.
+
+**The discovery:** characters do not teach because they have educational roles. Characters teach because they love differently, and their way of loving naturally shapes their way of teaching:
+
+- Sofía teaches through reassurance, noticing growth, and gentle invitation.
+- Rosa teaches by creating spaces where conversation naturally happens.
+- Carmen teaches through stories, repetition, patience, and belonging.
+- Beto teaches through humor, adventure, curiosity, and stretching confidence.
+
+This is reported as an important bridge between this program (Character Architecture) and Research Program 2 (Educational Philosophy) — teaching style would fall directly out of a completed Character Architecture reference rather than needing to be separately designed. Connects to, but does not resolve, `../educational-philosophy/educational-brief-v1.0-recovered.md` §6 ("Relationship Between Character and Teaching") and its founder decision that character precedes pedagogy — that document reached the same conclusion independently, from the educational-channel side rather than the character-architecture side. **Not yet tested against a second character** — Sofía's own Teaching Philosophy (`./experiments/sofia-teaching-philosophy.md`) is the only case where this has actually been observed in detail. Test case: Experiment 2 (Beto), same as the program's other open questions.
+
 ## 2026-08-02 — Sofía Pérez: Teaching Philosophy (working research artifact)
 
 Full text at `./experiments/sofia-teaching-philosophy.md`. Jamie & Solara supplied a distinct piece of writing on how Sofía naturally helps others learn — welcoming before instructing, valuing courage before correctness, treating mistakes as evidence learning is happening rather than interruptions to it. **Framed by Jamie explicitly as answering a different question than Character Architecture itself:** Character Architecture asks *who is this person?*; Teaching Philosophy asks *how does this person naturally help others learn?* Filed as connected to Experiment 1 but not merged into the v1.0 Reference, and not treated as established methodology — it may prove unique to Sofía, or may become a recurring layer of Character Architecture for characters whose identity includes teaching. **No methodology changes requested.** `ledger` note added to the artifact itself flagging a real convergence with independently-developed material (Jamie's Instructional Philosophy in `casa-perez/projects/agrupa/master-reference-v1.4.md` §3, `casa-perez/FOUNDATION.md`'s Belong → Relax → Engage → Learn principle, and Agrupa's Design Constitution Principle 5 / DP-009) — noted as worth watching, not resolved as cause-and-effect in either direction. Test case: whether this recurs, unprompted, in Experiment 2 (Beto).

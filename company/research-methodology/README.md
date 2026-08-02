@@ -108,6 +108,21 @@ This document is the high-level map. Over time, each research program can grow i
 
 ---
 
+## Research Program 7 — Design Research
+
+**Research Question:** What human truths do existing products reveal, and how would Casa Pérez naturally express those same truths in its own way?
+
+**Current Status:**
+- Discovery Artifacts / Working Theses, not canon
+- Matured into its own discipline as of 2026-08-02 — products studied for the human problem they solve, not the features they ship
+- Products currently under study: Speak, Finch, WhatsApp, Spotify, Unedo, ELSA, Dreaming Spanish, Language Transfer
+
+**Working Hypothesis:** Studying other products for the human problems they solve, rather than the features they ship, reveals durable design principles Casa Pérez can express in its own voice — without imitating the products themselves.
+
+**Program folder:** `./design-research/` — README (framework + founder clarifications + working mission/directional wording), plus three working theses produced by applying the framework: Emotional Role Architecture, the Adopted Family Design Filter, and Recognition vs. Evaluation. Also surfaced a cross-program convergence with Program 1 — see `./character-architecture/research-log.md`'s 2026-08-02 entry.
+
+---
+
 ## Planned Addition (Not Yet Implemented)
 
 Per Jamie, eventually each research program above should carry its own **"Current Sources of Evidence"** subsection — not conclusions, just links to where evidence for that program currently lives. Example shape (illustrative, not yet built):

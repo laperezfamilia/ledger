@@ -104,6 +104,11 @@ ledger/
       educational-philosophy/
         educational-research-sources.md
         educational-brief-v1.0-recovered.md
+      design-research/
+        README.md
+        emotional-role-architecture.md
+        adopted-family-design-filter.md
+        recognition-vs-evaluation.md
     product-process/
     decisions/
   casa-perez/
