@@ -103,6 +103,7 @@ ledger/
           sofia-teaching-philosophy.md
       educational-philosophy/
         educational-research-sources.md
+        educational-brief-v1.0-recovered.md
     product-process/
     decisions/
   casa-perez/

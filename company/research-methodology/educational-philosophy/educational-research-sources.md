@@ -4,14 +4,14 @@ owner: jamie
 last_reviewed: 2026-08-02
 depends_on:
 supersedes:
-related: ../README.md, ../character-architecture/experiments/sofia-teaching-philosophy.md, ../../../casa-perez/projects/agrupa/master-reference-v1.4.md, ../../../casa-perez/FOUNDATION.md
+related: ../README.md, ../character-architecture/experiments/sofia-teaching-philosophy.md, ../../../casa-perez/projects/agrupa/master-reference-v1.4.md, ../../../casa-perez/FOUNDATION.md, ./educational-brief-v1.0-recovered.md
 ---
 
 # Educational Research Sources (Proposed)
 
 **Status: Proposed addition, not canon.** Submitted by Jamie & Solara for discussion and refinement — not yet adopted as part of this program's working methodology.
 
-**Scope note:** this file captures only the "Educational Research Sources" section as transmitted. It is **not** the full Educational Brief referenced in the transmittal — per `../README.md`'s Research Program 2 (Educational Philosophy), the broader brief is "existing research already developed in educational discovery thread, pending migration into repository." That migration has not happened yet; this section is filed now as the first concrete content for this program, not as a stand-in for the rest.
+**Scope note:** this file captures only the "Educational Research Sources" section as originally transmitted, and stands as a complete artifact in its own right (confirmed by Jamie, 2026-08-02). It is **not** the full Educational Brief — that has since been recovered separately at `./educational-brief-v1.0-recovered.md`, whose §4 ("Educational Research Sources") covers the same three sources independently, as part of the larger recovered draft. The two are kept as distinct artifacts rather than merged; this file is not superseded by the Brief.
 
 ## Why this is a distinct section, not a list of inspirations
 
