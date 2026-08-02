@@ -90,6 +90,13 @@ ledger/
       roles.md
       operating-model.md
     research-methodology/
+      character-architecture/
+        README.md
+        research-log.md
+        evidence-index.md
+        open-questions.md
+        experiments/
+          sofia.md
     product-process/
     decisions/
   casa-perez/
@@ -98,6 +105,7 @@ ledger/
     decisions/
     governance/
     research/
+      family-architecture-integrity-dignity.md
     characters/
       character-voice-methodology.md
     projects/
