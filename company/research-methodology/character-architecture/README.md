@@ -4,8 +4,10 @@ owner: jamie
 last_reviewed: 2026-08-01
 depends_on:
 supersedes:
-related: ../../../casa-perez/characters/character-voice-methodology.md, ../../../casa-perez/research/family-architecture-integrity-dignity.md
+related: ../README.md, ../../../casa-perez/characters/character-voice-methodology.md, ../../../casa-perez/research/family-architecture-integrity-dignity.md
 ---
+
+**Part of the company-wide research map:** see `../README.md` — this is Research Program 1 of that index.
 
 # Character Architecture Research Program
 

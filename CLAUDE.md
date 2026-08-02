@@ -90,6 +90,7 @@ ledger/
       roles.md
       operating-model.md
     research-methodology/
+      README.md
       character-architecture/
         README.md
         research-log.md
