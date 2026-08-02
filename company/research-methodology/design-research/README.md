@@ -33,11 +33,17 @@ For every product studied:
 
 **Worked example — Speak:**
 
-- **Feature:** Speech recognition, real instructor videos, AI conversation.
-- **Human problem:** People are afraid to speak incorrectly.
-- **Casa Pérez translation:** Rather than reducing fear through drills alone, Sofía reduces fear through relationship, gentle correction, and psychological safety.
+- **1. Feature:** Speech recognition, real instructor videos, AI conversation.
+- **2. Why they built it:** To let learners practice speaking with correction and structured instruction outside a classroom, on their own schedule.
+- **3. Human problem:** People are afraid to speak incorrectly.
+- **4. Evidence supporting that interpretation:** *Flagged 2026-08-02 pressure-test review — this example originally skipped this step, violating the framework's own evidence discipline.* Current evidence is anecdotal and inferential, not rigorous: Speak's own marketing and product design (instant correction, a forgiving "conversation partner" framing rather than a graded test) is built around reducing speaking anxiety specifically, which is consistent with — but does not independently confirm — the fear-of-incorrectness interpretation. **This should be treated as a weakly-evidenced example until it's backed by something firmer** (user interviews, review-mining, published research on speaking anxiety), not as a demonstration of the framework working correctly.
+- **5. Casa Pérez translation:** Rather than reducing fear through drills alone, Sofía reduces fear through relationship, gentle correction, and psychological safety.
+- **6. Where it belongs:** Correction moments and first-attempt speaking practice across Casa Pérez products, not any one specific feature yet.
+- **7. Why intentionally different:** Speak's mechanism for reducing fear is repetition and instant feedback; Casa Pérez's hypothesis is that relationship and belonging reduce fear more durably — untested against each other.
 
 The feature may differ. The human problem remains. **The deliverable of this research is never a feature list — it's human problems, human feelings, human principles, and the Casa Pérez translation of each.**
+
+**Going forward, Design Research examples should model this evidence discipline themselves** (per Jamie & Solara, 2026-08-02) rather than skip step 4 the way this example originally did — a methodology that asks for evidence should show its own work.
 
 ## Products currently under study
 
@@ -77,7 +83,7 @@ Today's discovery session also surfaced a bridge between Research Program 1 (Cha
 design-research/
   README.md                          ← this file
   emotional-role-architecture.md      ← Working Thesis: products occupy emotional roles
-  adopted-family-design-filter.md     ← operational design filter + "products exist inside the world"
+  adopted-family-design-filter.md     ← two-step filter (family value → Character Architecture) + "products exist inside the world"; candidate architectural principle, treated as a research agenda pending founder confirmation
   recognition-vs-evaluation.md        ← Working Thesis: data as witness, not judgment
 ```
 
