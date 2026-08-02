@@ -39,7 +39,7 @@ Products do not simply occupy markets. They occupy emotional roles within people
 
 Every product should have one clear relational identity — a single emotional role a person could name if asked "what is this to you?"
 
-## Clarification (2026-08-02): this describes products, not characters
+## Clarification (Founder-approved, 2026-08-02): this describes products, not characters
 
 A pressure-test review raised a real risk worth naming directly: Character Architecture's whole documentation convention exists to resist flattening a person into a single adjective ("Sofía is warm" drifts; a scene doesn't). "One clear relational identity per product" could read as doing the same flattening move one layer up.
 
