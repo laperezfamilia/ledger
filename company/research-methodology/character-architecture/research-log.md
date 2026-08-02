@@ -58,3 +58,13 @@ Full text at `./experiments/sofia-character-architecture-reference-v1.0.md`. The
 ## 2026-08-02 — Experiment 1 (Sofía) status: Discovery Complete → Stewardship
 
 Founder declaration. Character Architecture Reference v1.0 established (above) as the record of discovery. Experiment 1 transitions from Discovery to Stewardship, per the phase language in `../../governance/operating-model.md`. **Operating posture going forward: future changes to the Sofía reference require new evidence rather than speculative refinement** — mirrors the same discipline already applied elsewhere in `ledger` (e.g. `STATE.md`'s "historical recovery complete... driven by product development, not retrospective reconciliation, unless new primary-source evidence surfaces"). Claude's artifact-level critique (delivered separately, not yet acted on) stays available for whenever new evidence or a specific implementation need calls for revisiting the document — it is not itself treated as evidence requiring immediate action.
+
+## 2026-08-02 — Working observation: a possible experiment lifecycle model
+
+**Status: Working observation, not established methodology.** Observed only through Experiment 1 (Sofía) so far — a single case, not yet a pattern confirmed by replication.
+
+Proposed lifecycle: **Experiment Created → Discovery Active → Discovery Complete → Reference Established → Stewardship → (New Evidence Emerges) → Reference Updated.**
+
+Jamie & Solara's observation: explicitly recording lifecycle-state transitions may prove more useful than dates alone for understanding an experiment's maturity — a date says *when*, a state says *how far along*. Sofía has now moved through Discovery Created → Discovery Active → Discovery Complete → Reference Established → Stewardship (see the two entries directly above). The "(New Evidence Emerges) → Reference Updated" loop is not yet tested — nothing has triggered it for Sofía yet.
+
+**Test case:** Experiment 2 (Beto) — the first opportunity to see whether this lifecycle model reinforces or needs to be challenged/revised. See `./open-questions.md`.

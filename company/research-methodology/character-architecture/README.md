@@ -48,6 +48,30 @@ Those are intentionally different statements. This program exists to preserve th
 
 *(`ledger` note: this thesis's "AI participating in long-term relationships" framing overlaps with `../README.md`'s Research Program 3 — Relational Design ("How do we design AI relationships that strengthen people's relationships with themselves and with other people?"). Noted as a cross-program connection worth watching, not merged — Program 1 is about identity fidelity specifically; Program 3 is broader.)*
 
+## Proposed Experiment Lifecycle (Working Observation, 2026-08-02)
+
+**Status: Working observation, not established methodology.** Observed only through Experiment 1 (Sofía) — a single case, not a confirmed pattern.
+
+```
+Experiment Created
+  ↓
+Discovery Active
+  ↓
+Discovery Complete
+  ↓
+Reference Established
+  ↓
+Stewardship
+  ↓
+(New Evidence Emerges)
+  ↓
+Reference Updated
+```
+
+Explicitly recording an experiment's lifecycle *state* may prove more useful than dates alone for understanding its maturity — a date says when something happened; a state says how far along it is. Sofía has moved through Discovery Created → Discovery Active → Discovery Complete → Reference Established → Stewardship (see `./experiments/sofia.md` and `./research-log.md` for the actual transitions). The "New Evidence Emerges → Reference Updated" loop is untested — nothing has triggered it yet.
+
+**Test case:** Experiment 2 (Beto) is the first opportunity to see whether this lifecycle reinforces or needs to be challenged. See `./open-questions.md`.
+
 ## Structure
 
 ```
