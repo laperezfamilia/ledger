@@ -1,22 +1,25 @@
 ---
 status: working
 owner: jamie
-last_reviewed: 2026-08-01
+last_reviewed: 2026-08-02
 depends_on:
 supersedes:
-related: ../../../../casa-perez/characters/character-voice-methodology.md, ../../../../casa-perez/projects/agrupa/sofia-observations-bank.md, ../../../../casa-perez/research/family-architecture-integrity-dignity.md, ./sofia-2026-08-01-architectural-synthesis.md
+related: ../../../../casa-perez/characters/character-voice-methodology.md, ../../../../casa-perez/projects/agrupa/sofia-observations-bank.md, ../../../../casa-perez/research/family-architecture-integrity-dignity.md, ./sofia-2026-08-01-architectural-synthesis.md, ./sofia-character-architecture-reference-v1.0.md
 ---
 
 # Experiment 1 — Sofía Pérez
 
 **Status:** Ongoing. Sofía is the founding case for this research program — most current entries in `../research-log.md` and `../evidence-index.md` trace back to her discovery process.
 
+**Primary reference (2026-08-02): `./sofia-character-architecture-reference-v1.0.md`** — the first complete Character Architecture Reference, founder-authorized, assembled from ten architectural principles (each with Foundational Scene, Supporting Scene(s), and Interpretation), a Recognition Portrait, and a Character Compass. This is the current best single answer to "who is Sofía" and the exemplar for future Character Architecture references (e.g. Beto). Start there.
+
 This page is an index into evidence that already lives elsewhere in `ledger`, not a duplicate of it — per "recover before recreate," Sofía's actual character material stays where it was already filed for its own purpose:
 
+- **`./sofia-character-architecture-reference-v1.0.md`** — the primary reference, above.
 - **`casa-perez/characters/character-voice-methodology.md`** — the general, cross-character methodology extracted from Sofía's discovery (Three Lenses, Human Recognition Diagnostic, "dialogue is downstream of attention"). This is the *methodology* layer this research program is trying to validate.
 - **`casa-perez/projects/agrupa/sofia-observations-bank.md`** — the practical observation bank and its Agrupa-specific application (Reflection copy). This is *product* content, not research content, but is a rich source of raw material for this experiment.
-- **`casa-perez/research/family-architecture-integrity-dignity.md`** — the Integrity & Dignity hypothesis, Sofía-originated, hypothesized to extend family-wide.
-- **`./sofia-2026-08-01-architectural-synthesis.md`** — a discovery session covering character sufficiency, social presence calibration, entrepreneurship, creator philosophy, bilingual authenticity, audience relationship, and the broader "believable health, not perfection" founder vision. Mixed status — carefully tagged Founder Decision vs. Working Observation per point; not applied to any production voice material yet.
+- **`casa-perez/research/family-architecture-integrity-dignity.md`** — the Integrity & Dignity hypothesis, Sofía-originated, hypothesized to extend family-wide. Now has concrete scene-level evidence in the v1.0 Reference's Principle 6.
+- **`./sofia-2026-08-01-architectural-synthesis.md`** — the earlier discovery session covering character sufficiency, social presence calibration, entrepreneurship, creator philosophy, bilingual authenticity, audience relationship, and the broader "believable health, not perfection" founder vision. Predates the documentation convention and the v1.0 Reference; kept as historical record of the discovery process, not superseded or deleted — the v1.0 Reference is the current primary artifact but this earlier synthesis is where several of its principles first took shape.
 
 ## What this experiment is testing
 

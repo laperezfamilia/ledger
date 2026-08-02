@@ -98,6 +98,8 @@ ledger/
         open-questions.md
         experiments/
           sofia.md
+          sofia-2026-08-01-architectural-synthesis.md
+          sofia-character-architecture-reference-v1.0.md
     product-process/
     decisions/
   casa-perez/
