@@ -47,6 +47,18 @@ character-architecture/
     (beto.md, when Beto's independent discovery process begins — Experiment 2)
 ```
 
+## Documentation Convention (Approved 2026-08-01)
+
+**Working standard for future Character Architecture architectural handoffs.** Every significant architectural principle recorded in this program should have three parts:
+
+1. **Principle** — the architectural conclusion.
+2. **Canonical Example(s)** — one or two short scenes that demonstrate the principle. Embedded directly with the principle, never separated into another document — a principle read without its anchor drifts back into being just an adjective.
+3. **Interpretation** — why those examples support the principle and how they should guide future implementation. **Discipline required here:** Interpretation explains why the example supports the principle; it must never become a place where new, unvalidated claims quietly enter the architecture. This preserves "resist premature synthesis" (below) at the sentence level, not just the document level.
+
+**Why this is the standard, not just a preference:** this same underlying instinct — concrete example over abstract description — had already emerged independently in three places before being named as a convention: this program's own "behaviors reveal character more reliably than adjectives" (`./research-log.md`), Agrupa's Dialogue Approval Rule ("any proposed line must be presented as an actual quotation... not approved as an abstract description of intended effect" — `casa-perez/projects/agrupa/copy-library.md`), and the discovery that architectural principles become significantly more durable when anchored to lived scenes (Sofía synthesis, `./experiments/sofia-2026-08-01-architectural-synthesis.md`). Those three independent emergences are **not** being elevated into methodology yet — but they were strong enough evidence to justify changing the documentation convention itself.
+
+**Character voice is calibrated by resemblance, not pass/fail.** A canonical example functions as a reference anchor to compare new writing against ("does this feel closer to the example, or does it drift?"), not a test with a binary pass/fail outcome the way `casa-perez/projects/agrupa/design-principles-v0.1.md`'s Operational Tests work for puzzle design. Same three-part shape (Principle → Rationale/Interpretation → Test/Example), adapted correctly for character work.
+
 ## Guiding Research Principles
 
 Same evidence standards as the broader collaboration (see `../../governance/operating-model.md` Shared Principles):
