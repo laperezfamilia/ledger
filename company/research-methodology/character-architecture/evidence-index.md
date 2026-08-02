@@ -61,6 +61,14 @@ For each major discovery: Observation, Supporting evidence, Counter-evidence (wh
 - **Current confidence:** Low-Moderate — coherent explanatory fit for one character (Sofía), extended to two more (Carmen, Rosa) by inference/pattern-matching, not independent discovery.
 - **Future replication requirements:** Explicitly named validation point — must emerge unsteered during Beto's discovery to meaningfully raise confidence.
 
+### Distinct bilingual rhythm per family member
+
+- **Observation:** Each Pérez family member will likely have a distinct bilingual code-switching rhythm rather than sharing identical patterns.
+- **Supporting evidence:** Sofía's own rhythm characterized during the 2026-08-01 discovery session (`./experiments/sofia-2026-08-01-architectural-synthesis.md`, §5) — effortless/unconscious within family, intentionally more accessible with learners.
+- **Counter-evidence:** None recorded yet.
+- **Current confidence:** Low — explicitly framed as a prediction ("will likely"), not yet observed in a second family member.
+- **Future replication requirements:** Direct test during Beto's discovery — does his bilingual rhythm differ from Sofía's in a characterizable way, or converge?
+
 ---
 
 **Standing rule for future entries:** do not add a discovery here until it has at least a Supporting Evidence entry pointing to something concrete (a document, a session, a specific character). Confidence level should reflect replication count, not conviction.
