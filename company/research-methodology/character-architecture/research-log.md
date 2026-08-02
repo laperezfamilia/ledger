@@ -59,7 +59,7 @@ Full text at `./experiments/sofia-character-architecture-reference-v1.0.md`. The
 
 Founder declaration. Character Architecture Reference v1.0 established (above) as the record of discovery. Experiment 1 transitions from Discovery to Stewardship, per the phase language in `../../governance/operating-model.md`. **Operating posture going forward: future changes to the Sofía reference require new evidence rather than speculative refinement** — mirrors the same discipline already applied elsewhere in `ledger` (e.g. `STATE.md`'s "historical recovery complete... driven by product development, not retrospective reconciliation, unless new primary-source evidence surfaces"). Claude's artifact-level critique (delivered separately, not yet acted on) stays available for whenever new evidence or a specific implementation need calls for revisiting the document — it is not itself treated as evidence requiring immediate action.
 
-## 2026-08-02 — Working observation: a possible experiment lifecycle model
+## 2026-08-02 — Working observation: the Proposed Character Architecture Experiment Lifecycle
 
 **Status: Working observation, not established methodology.** Observed only through Experiment 1 (Sofía) so far — a single case, not yet a pattern confirmed by replication.
 

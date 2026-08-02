@@ -48,7 +48,9 @@ Those are intentionally different statements. This program exists to preserve th
 
 *(`ledger` note: this thesis's "AI participating in long-term relationships" framing overlaps with `../README.md`'s Research Program 3 — Relational Design ("How do we design AI relationships that strengthen people's relationships with themselves and with other people?"). Noted as a cross-program connection worth watching, not merged — Program 1 is about identity fidelity specifically; Program 3 is broader.)*
 
-## Proposed Experiment Lifecycle (Working Observation, 2026-08-02)
+## Proposed Character Architecture Experiment Lifecycle (2026-08-02)
+
+**Naming note:** deliberately titled "Proposed Character Architecture Experiment Lifecycle," not "Character Architecture Experiment Lifecycle" — the "Proposed" preserves an appropriate research posture while still making the idea visible. If future experiments (particularly Beto) naturally follow it, removing "Proposed" would itself be a meaningful research milestone, not an editorial change.
 
 **Status: Working observation, not established methodology.** Observed only through Experiment 1 (Sofía) — a single case, not a confirmed pattern.
 
