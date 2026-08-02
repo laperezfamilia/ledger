@@ -4,7 +4,7 @@ owner: jamie
 last_reviewed: 2026-08-02
 depends_on:
 supersedes:
-related: ../../../../casa-perez/characters/character-voice-methodology.md, ../../../../casa-perez/projects/agrupa/sofia-observations-bank.md, ../../../../casa-perez/research/family-architecture-integrity-dignity.md, ./sofia-2026-08-01-architectural-synthesis.md, ./sofia-character-architecture-reference-v1.0.md
+related: ../../../../casa-perez/characters/character-voice-methodology.md, ../../../../casa-perez/projects/agrupa/sofia-observations-bank.md, ../../../../casa-perez/research/family-architecture-integrity-dignity.md, ./sofia-2026-08-01-architectural-synthesis.md, ./sofia-character-architecture-reference-v1.0.md, ./sofia-teaching-philosophy.md
 ---
 
 # Experiment 1 — Sofía Pérez
@@ -22,6 +22,7 @@ This page is an index into evidence that already lives elsewhere in `ledger`, no
 - **`casa-perez/projects/agrupa/sofia-observations-bank.md`** — the practical observation bank and its Agrupa-specific application (Reflection copy). This is *product* content, not research content, but is a rich source of raw material for this experiment.
 - **`casa-perez/research/family-architecture-integrity-dignity.md`** — the Integrity & Dignity hypothesis, Sofía-originated, hypothesized to extend family-wide. Now has concrete scene-level evidence in the v1.0 Reference's Principle 6.
 - **`./sofia-2026-08-01-architectural-synthesis.md`** — the earlier discovery session covering character sufficiency, social presence calibration, entrepreneurship, creator philosophy, bilingual authenticity, audience relationship, and the broader "believable health, not perfection" founder vision. Predates the documentation convention and the v1.0 Reference; kept as historical record of the discovery process, not superseded or deleted — the v1.0 Reference is the current primary artifact but this earlier synthesis is where several of its principles first took shape.
+- **`./sofia-teaching-philosophy.md`** — working research artifact, not part of the v1.0 Reference. Answers a different question than Character Architecture (*how does this person naturally help others learn?* rather than *who is this person?*); connected to this experiment but not yet established as a recurring Character Architecture layer.
 
 ## What this experiment is testing
 
