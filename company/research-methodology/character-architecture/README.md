@@ -34,19 +34,25 @@ Our current hypothesis is: *"We may be discovering the foundations of a repeatab
 
 Those are intentionally different statements. This program exists to preserve that distinction — optimized for preserving observations, experiments, evidence, uncertainty, and future replication, not for producing conclusions.
 
-## Proposed Working Thesis (2026-08-01)
+## Founder-Approved Working Thesis (2026-08-02, revised from the 2026-08-01 Proposed Working Thesis)
 
-**Status: Working Thesis — a research direction to test, refine, challenge, or disprove, not a validated conclusion. Not established methodology, governance, or canon.**
+**Status: Founder-Approved Working Thesis.** Distinct from — and should stay clearly distinguished from — Observation, Working Methodology, Established Philosophy, and Canonical Preservation. This is not canonical methodology and not established philosophy: it is the program's current research objective, approved by Jamie to guide future experiments and to be pressure-tested across additional characters. If future experiments fail to support it, it should be revised rather than protected.
+
+**Revision note:** reached during Character Architecture Experiment 2 (Beto Pérez). Jamie explicitly approved this as the program's current Working Thesis, replacing the 2026-08-01 wording below as the active version — recorded here rather than silently overwritten, since the refinement built on the original rather than discarding it.
+
+> The purpose of Character Architecture is not to manufacture believable characters. It is to reliably discover and preserve the layered coherence of a human identity so that recognition survives across time, collaborators, and AI systems.
+
+**Previous wording (2026-08-01, superseded by the above but preserved for context):**
 
 > Character Architecture is the discipline of discovering and preserving human identity with enough fidelity that an AI can participate in long-term relationships while remaining recognizably faithful to the identity it embodies.
 
 **Context:** emerged from the Discovery/Preservation working observation (`./research-log.md`, 2026-08-01) — Discovery ("how do we recognize a person?") and Preservation ("how do we preserve that discovered person with enough fidelity that future collaborators, implementations, and AI interactions continue to recognize the same identity over time?"). The four-part documentation convention above is understood as one practical answer to the Preservation half.
 
-**Why this matters:** the objective is not merely AI characters that remain "in character." The aspiration is identity preserved with enough fidelity that people experience continuity over time and naturally feel *"that still feels like Sofía."* This shifts the emphasis from consistency of output to faithfulness of identity.
+**Why this matters:** this is a clarification of the program's research objective, not primarily a character-creation process. The central question is whether coherent human identity can be discovered, preserved, and recognized across different contexts without being reduced or flattened. The thesis intentionally emphasizes *discover* rather than invent, *preserve* rather than simplify, and *recognition* rather than mere consistency or realism. Recognition is the operational success criterion: the methodology succeeds when future collaborators naturally respond *"that still feels like Beto"* (or Sofía) — not merely when the character is internally consistent.
 
-**Test case:** Experiment 2 (Beto) is the first substantial test of whether this thesis holds beyond Sofía. Future experiments should actively attempt to strengthen, refine, challenge, or disprove it — not simply confirm it. See `./open-questions.md`.
+**Relationship to current research:** supported by, but not yet proven through, Experiment 1 (Sofía) and early findings from Experiment 2 (Beto). It remains an active research thesis — future experiments should continue testing both supporting evidence and potential counterexamples, not simply confirm it. See `./open-questions.md`.
 
-*(`ledger` note: this thesis's "AI participating in long-term relationships" framing overlaps with `../README.md`'s Research Program 3 — Relational Design ("How do we design AI relationships that strengthen people's relationships with themselves and with other people?"). Noted as a cross-program connection worth watching, not merged — Program 1 is about identity fidelity specifically; Program 3 is broader.)*
+*(`ledger` note: this thesis's "recognition across time, collaborators, and AI systems" framing overlaps with `../README.md`'s Research Program 3 — Relational Design ("How do we design AI relationships that strengthen people's relationships with themselves and with other people?"). Noted as a cross-program connection worth watching, not merged — Program 1 is about identity fidelity specifically; Program 3 is broader.)*
 
 ## Proposed Character Architecture Experiment Lifecycle (2026-08-02)
 

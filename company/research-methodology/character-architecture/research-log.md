@@ -75,6 +75,10 @@ Full text in the new §8 of `./experiments/beto-2026-08-02-methodology-stress-te
 
 **Open question this raises** (see `./open-questions.md`): should horizontal and vertical inquiry alternate throughout discovery, or should vertical inquiry only happen once a pattern has stabilized? Founder observation: if Character Architecture is meant to be a repeatable discipline, "Why?" should become a deliberate methodological behavior rather than depending on researcher intuition. **Status: working methodology only, not proposed as canonical process until tested across additional sessions and characters.**
 
+## 2026-08-02 — Working Thesis promoted to Founder-Approved, revised wording
+
+During Experiment 2 (Beto), Jamie explicitly approved a revised Working Thesis for the whole program, recorded in full at `../README.md`'s "Founder-Approved Working Thesis" section. New wording: *"The purpose of Character Architecture is not to manufacture believable characters. It is to reliably discover and preserve the layered coherence of a human identity so that recognition survives across time, collaborators, and AI systems."* Supersedes the 2026-08-01 wording above as the active version — that original wording is preserved in `../README.md`, not deleted. **Classification: Founder-Approved Working Thesis** — Jamie was explicit this should stay distinguished from Observation, Working Methodology, Established Philosophy, and Canonical Preservation; it is not canonical methodology or established philosophy. Supported by, not yet proven through, Sofía (Experiment 1) and early Beto findings (Experiment 2) — if future experiments fail to support it, it should be revised rather than protected.
+
 ## 2026-08-02 — Working observation: the Proposed Character Architecture Experiment Lifecycle
 
 **Status: Working observation, not established methodology.** Observed only through Experiment 1 (Sofía) so far — a single case, not yet a pattern confirmed by replication.

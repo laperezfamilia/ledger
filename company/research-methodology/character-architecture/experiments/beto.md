@@ -9,7 +9,7 @@ related: ../README.md, ../research-log.md, ../open-questions.md, ./beto-2026-08-
 
 # Experiment 2 — Beto Pérez
 
-**Status: Discovery Active (2026-08-02).** Character Architecture's second experiment has begun — the first real test of nearly every working thesis, hypothesis, and lifecycle model this program has proposed so far (the Discovery/Preservation split, the Proposed Working Thesis, the Proposed Character Architecture Experiment Lifecycle, "characters teach because they love differently," and the Documentation Convention itself).
+**Status: Discovery Active (2026-08-02).** Character Architecture's second experiment has begun — the first real test of nearly every working thesis, hypothesis, and lifecycle model this program has proposed so far (the Discovery/Preservation split, the Founder-Approved Working Thesis, the Proposed Character Architecture Experiment Lifecycle, "characters teach because they love differently," and the Documentation Convention itself). This experiment session is also where the Working Thesis itself was revised and Founder-approved — see `../README.md`.
 
 **Lifecycle stage (per `../README.md`'s Proposed Character Architecture Experiment Lifecycle, working observation):** Experiment Created → **Discovery Active (current)**. No Reference has been established yet — this is the first session.
 
