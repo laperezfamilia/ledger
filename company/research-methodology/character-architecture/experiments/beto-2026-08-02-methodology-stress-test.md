@@ -141,6 +141,28 @@ The methodology should not automatically treat the second category as incomplete
 
 **Status:** working methodology observation only. Requires replication across future experiments before any promotion to established methodology.
 
+### 11. Rhythms of Living
+
+**Observation:** discovery repeatedly asked "what does Beto do on a Wednesday evening?" / "which activity would he choose?" — seeking a single canonical activity. The founder consistently resisted choosing one. Initially this seemed to reduce specificity; instead it revealed a different layer of coherence.
+
+**Emerging observation:** the stable unit of identity may not always be individual behaviors — it may sometimes be **rhythms of living**. Beto's morning is recognizable because of its rhythm (wakes up, runs, cares for his body, clears his mind, showers, begins the day) — the exact details may vary, the rhythm remains recognizable. Evenings consistently transition from productivity into restoration, but the restorative activities vary widely (porch, a walk, dinner with family, TV, browsing future destinations, drawing inspiration from other photographers, quietly dreaming about future documentary work). No single activity is essential — the restorative rhythm is.
+
+**Working distinction:** Character Architecture may currently overemphasize behavioral stability. Not *"Beto always watches TV,"* but *"Beto intentionally transitions from work into restoration through activities that nourish him."* The activity changes; the rhythm remains recognizable.
+
+**Why "rhythm" instead of "habit":** habit implies repetition of the same behavior. Rhythm preserves continuity while allowing authentic variation — judged more faithful to ordinary human life.
+
+**Relationship to current research:** may connect to several existing working observations — identity vs. expression, discernment, recognition, developmental continuity, tacit expertise (§9). Rhythms may be another category of evidence through which coherent fictional human identity is recognized; whether it's a genuinely distinct category is unknown.
+
+*(`ledger` note: a structural question worth flagging directly — the Documentation Convention (`../README.md`) is built around a Foundational Scene, one specific scene that caused a principle to be recognized. A Rhythm, as described here, has no single essential instance by definition — "no single activity is essential" is the whole point. It's not obvious the existing four-part format (Principle → Foundational Scene → Supporting Scene(s) → Interpretation) can represent a Rhythm without distortion, since anchoring it to one scene would recreate exactly the "Beto always watches TV" flattening this observation is trying to avoid. If Rhythms hold up as a real category, the convention may eventually need a parallel form — something like Principle → Recurring Structure → Varying Instances → Interpretation — rather than being forced into the existing scene-anchored shape. Not proposed as a change here, just named as a likely future friction point.)*
+
+**Open research questions** (see `../open-questions.md`):
+- Do all coherent fictional human identities exhibit recognizable rhythms of living?
+- Are rhythms more stable across time than specific behaviors?
+- Should Character Architecture intentionally discover daily, weekly, seasonal, and life-stage rhythms rather than primarily cataloging behaviors?
+- Does recognition emerge more reliably from preserved rhythms than from repeated actions?
+
+**Status:** working methodology observation only. Requires replication across additional characters before consideration as established methodology.
+
 ---
 
 ## Founder Direction: Biography, Not Diagnosis

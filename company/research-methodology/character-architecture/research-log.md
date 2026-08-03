@@ -97,6 +97,14 @@ Full text in the new §10 of `./experiments/beto-2026-08-02-methodology-stress-t
 
 **Founder direction (2026-08-02), given directly in response to that flagged tension:** treat Recognition and Premature Convergence as competing hypotheses, not a resolved distinction, until reliable distinguishing criteria are discovered. Neither should be assumed correct by default when a researcher feels "that's [character]" — the two stay held open, side by side, until evidence (e.g. does the reading survive founder correction? does it hold up against new scenes without further flattening the character?) sorts a given instance one way or the other. **Status: working methodology observation only, requires replication before any promotion.**
 
+## 2026-08-02 — Rhythms of Living
+
+Full text in the new §11 of `./experiments/beto-2026-08-02-methodology-stress-test.md`. Discovery repeatedly sought a single canonical activity ("what does Beto do on a Wednesday evening?"); the founder consistently resisted choosing one. Revealed a different layer of coherence: Beto's mornings and evenings are recognizable through **rhythm** (e.g. work transitioning into restoration), not through any single essential activity — the restorative activity varies (porch, a walk, family dinner, TV, browsing destinations, drawing inspiration from other photographers), the rhythm doesn't. "Rhythm" preferred over "habit" because habit implies repeating the same behavior, while rhythm preserves continuity through authentic variation.
+
+**Structural tension flagged, not resolved:** the Documentation Convention (`../README.md`) is built around a Foundational Scene — one specific scene that caused a principle to be recognized. A Rhythm has no single essential instance by definition, so it's unclear the existing four-part format can represent one without recreating the exact flattening ("Beto always watches TV") this observation is trying to avoid. If Rhythms hold up, the convention may eventually need a parallel form (Principle → Recurring Structure → Varying Instances → Interpretation) — not proposed as a change now, just named as a likely future friction point.
+
+**Open questions raised** (see `./open-questions.md`): do all coherent characters exhibit recognizable rhythms? Are rhythms more stable across time than specific behaviors? Should discovery intentionally seek daily/weekly/seasonal/life-stage rhythms rather than primarily cataloging behaviors? Does recognition emerge more reliably from rhythms than from repeated actions? **Status: working methodology observation only, requires replication across additional characters.**
+
 ## 2026-08-02 — Working observation: the Proposed Character Architecture Experiment Lifecycle
 
 **Status: Working observation, not established methodology.** Observed only through Experiment 1 (Sofía) so far — a single case, not yet a pattern confirmed by replication.
