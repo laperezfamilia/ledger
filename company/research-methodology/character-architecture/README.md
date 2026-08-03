@@ -74,6 +74,10 @@ Explicitly recording an experiment's lifecycle *state* may prove more useful tha
 
 **Test case:** Experiment 2 (Beto) is the first opportunity to see whether this lifecycle reinforces or needs to be challenged. See `./open-questions.md`.
 
+## Experiment 2 (Beto) — Now Underway (2026-08-02)
+
+Discovery Active. See `./experiments/beto.md` and `./experiments/beto-2026-08-02-methodology-stress-test.md`. Experiment 2 has an explicit dual purpose — discover Beto Pérez, and simultaneously stress-test this program's own methodology (the Documentation Convention, the Discovery/Preservation split, the Working Thesis, and the Experiment Lifecycle above). Seven proposed methodological observations have surfaced so far, all `working`, none founder-approved as canonical methodology yet — see `./research-log.md`'s 2026-08-02 entry and `./open-questions.md` for the specific open questions each one raises. **The Documentation Convention below is unchanged** — nothing here has been promoted.
+
 ## Structure
 
 ```
@@ -84,7 +88,7 @@ character-architecture/
   open-questions.md         ← unresolved research questions, treated as assets, not gaps
   experiments/
     sofia.md                 ← Experiment 1: Sofía Pérez
-    (beto.md, when Beto's independent discovery process begins — Experiment 2)
+    beto.md                  ← Experiment 2: Beto Pérez (Discovery Active, 2026-08-02)
 ```
 
 ## Documentation Convention (Founder Decision — revised 2026-08-01)

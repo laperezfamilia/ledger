@@ -101,6 +101,8 @@ ledger/
           sofia-2026-08-01-architectural-synthesis.md
           sofia-character-architecture-reference-v1.0.md
           sofia-teaching-philosophy.md
+          beto.md
+          beto-2026-08-02-methodology-stress-test.md
       educational-philosophy/
         educational-research-sources.md
         educational-brief-v1.0-recovered.md
