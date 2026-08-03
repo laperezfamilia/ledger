@@ -105,6 +105,26 @@ Both appear necessary. Neither replaces the other.
 
 **Founder Observation:** if Character Architecture is meant to become a repeatable discipline, "Why?" should become a deliberate methodological behavior rather than depending on researcher intuition. Future users should be guided to probe beneath important occupations, dreams, values, and long-term goals rather than accepting them as endpoints.
 
+### 9. Tacit Expertise & Embodied Judgment
+
+**Observation:** during several photography scenes, discovery repeatedly asked "why did Beto lower the camera?" / "which reason best explains his decision?" — assuming a single, consciously articulated reason. The founder repeatedly answered with combinations or rejected that assumption outright: *"Artists have an eye. They have an intuition. They have a feeling. They know the moment."*
+
+**Emerging methodology observation:** Character Architecture currently assumes meaningful behavior can usually be traced through explicit reasoning. Experiment 2 suggests this is incomplete — some human decisions emerge from cultivated intuition rather than fully articulated reasoning. **This is not irrational behavior; it's expertise that has become embodied through years of practice.** Likely domains: photographers, teachers, physicians, musicians, craftspeople, athletes, parents, experienced leaders — people who often recognize what a situation needs before they can fully explain why.
+
+**Working distinction:**
+
+| Explicit Reasoning | Tacit Expertise / Embodied Judgment |
+|---|---|
+| "I did this because…" | "It just didn't feel right." / "I knew." |
+
+The methodology should not automatically treat the second category as incomplete or inferior — it may be a different form of human knowledge, not missing information.
+
+**Possible methodological adaptation:** when investigating expert behavior, discovery shouldn't always force explicit causal explanations. Instead of *"Why did he lower the camera?"*, consider: *"What told him this wasn't the right moment?"* / *"What did he notice?"* / *"What felt different?"* / *"When did he know?"* These invite articulation without assuming conscious reasoning fully precedes expert judgment.
+
+**Open research question (see `../open-questions.md`):** should Character Architecture explicitly recognize Tacit Expertise / Embodied Judgment as a distinct category of evidence alongside observation, motivation, and worldview — or is it simply a specialized form of observation that doesn't need its own classification? Unresolved.
+
+**Status:** working methodology observation only. Requires testing across additional characters and non-artistic domains before consideration as a broader methodological principle.
+
 ---
 
 ## Founder Direction: Biography, Not Diagnosis
