@@ -171,6 +171,10 @@ Jamie emphasized that Character Architecture should increasingly resemble biogra
 
 This may become one of the defining philosophical shifts of the discipline.
 
+## Founder Decision: AI/Human Role Division in Discovery
+
+Recorded in full at `../README.md`'s "AI/Human Role Division in Discovery" section — not duplicated here. Summary: the AI bears the primary burden of hypothesis generation; the human primarily evaluates, refines, sequences, rejects, and recognizes. Character Architecture is a recognition-centered collaboration, not a blank-page authoring exercise. Names explicitly what §3 (Founder Corrections Are First-Class Research Data) and §10 (Recognition as an Active Discovery Phenomenon) above were already implicitly describing about this session's own working pattern.
+
 ---
 
 ## Status

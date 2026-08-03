@@ -105,6 +105,12 @@ Full text in the new §11 of `./experiments/beto-2026-08-02-methodology-stress-t
 
 **Open questions raised** (see `./open-questions.md`): do all coherent characters exhibit recognizable rhythms? Are rhythms more stable across time than specific behaviors? Should discovery intentionally seek daily/weekly/seasonal/life-stage rhythms rather than primarily cataloging behaviors? Does recognition emerge more reliably from rhythms than from repeated actions? **Status: working methodology observation only, requires replication across additional characters.**
 
+## 2026-08-02 — Founder Decision: AI/Human Role Division in Discovery
+
+Recorded in full at `../README.md`'s new "AI/Human Role Division in Discovery" section. Stated directly and prescriptively, unlike most entries in this log: *"The AI should bear the primary burden of hypothesis generation. The human should primarily evaluate, refine, sequence, reject, and recognize. Character Architecture is a recognition-centered collaboration, not a blank-page authoring exercise."*
+
+This names, rather than newly discovers, a division that Experiment 2's own findings had already been implicitly describing: "Founder Corrections Are First-Class Research Data" (`./experiments/beto-2026-08-02-methodology-stress-test.md` §3) treats the human's evaluative corrections as the primary evidence-bearing act; "Recognition as an Active Discovery Phenomenon" (§10) locates the human's distinctive contribution specifically in recognition. **Classification: Founder Decision**, distinct from this log's usual Observation entries — a decision about how discovery sessions should proceed going forward, not a pattern being reported as noticed.
+
 ## 2026-08-02 — Working observation: the Proposed Character Architecture Experiment Lifecycle
 
 **Status: Working observation, not established methodology.** Observed only through Experiment 1 (Sofía) so far — a single case, not yet a pattern confirmed by replication.

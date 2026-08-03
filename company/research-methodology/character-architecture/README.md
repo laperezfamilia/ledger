@@ -125,6 +125,16 @@ Character Architecture documents should primarily preserve Foundational and Supp
 
 **Character voice is calibrated by resemblance, not pass/fail.** A canonical example functions as a reference anchor to compare new writing against ("does this feel closer to the example, or does it drift?"), not a test with a binary pass/fail outcome the way `casa-perez/projects/agrupa/design-principles-v0.1.md`'s Operational Tests work for puzzle design. Same three-part shape (Principle → Rationale/Interpretation → Test/Example), adapted correctly for character work.
 
+## AI/Human Role Division in Discovery (Founder Decision, 2026-08-02)
+
+> The AI should bear the primary burden of hypothesis generation. The human should primarily evaluate, refine, sequence, reject, and recognize. Character Architecture is a recognition-centered collaboration, not a blank-page authoring exercise.
+
+**Status: Founder Decision.** Unlike most entries in this program, stated directly and prescriptively rather than as an emerging observation — recorded as such rather than softened into tentative language it wasn't given in.
+
+**What this means in practice:** the AI's job in a discovery session is to generate candidate readings, scenes, and organizing principles — plentifully, and expecting most of them to be wrong or partial. The human's job is not primarily to generate raw material but to evaluate what's offered, refine what's close, sequence what order to pursue things in, reject what doesn't fit, and — per Beto Discovery Session 1's observation on recognition (`./research-log.md`, 2026-08-02) — recognize the character as they emerge through that evaluated material.
+
+**Consistent with, not new relative to, what's already been observed this session:** this names the role division that Experiment 2's own findings have been implicitly describing — "Founder Corrections Are First-Class Research Data" (`./experiments/beto-2026-08-02-methodology-stress-test.md` §3) treats the human's evaluative corrections as the primary evidence-bearing act, and "Recognition as an Active Discovery Phenomenon" (§10) locates the human's distinctive contribution in recognition specifically. This decision makes that division explicit and prescriptive rather than leaving it implicit in how sessions happened to unfold.
+
 ## Guiding Research Principles
 
 Same evidence standards as the broader collaboration (see `../../governance/operating-model.md` Shared Principles):
