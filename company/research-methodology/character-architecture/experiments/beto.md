@@ -19,7 +19,7 @@ related: ../README.md, ../research-log.md, ../open-questions.md, ./beto-2026-08-
 
 ## What's here so far
 
-- **`./beto-2026-08-02-methodology-stress-test.md`** — the first Beto discovery session, recorded with its dual character/methodology framing intact. Contains the first Beto-specific evidence (an outward-orientation organizing principle that drifted through several increasingly reductive interpretations before founder correction, and the emerging Occupation/Calling/Orientation distinction), plus seven proposed methodological observations for Character Architecture itself — none founder-approved as canonical methodology yet.
+- **`./beto-2026-08-02-methodology-stress-test.md`** — the first Beto discovery session, recorded with its dual character/methodology framing intact. Contains the first Beto-specific evidence — an outward-orientation organizing principle that drifted through several increasingly reductive interpretations before founder correction, the emerging Occupation/Calling/Orientation distinction, and Beto's dream of becoming an internationally-published traveling photographer/videographer, which turned out to express a worldview formed by travel (universal truths crossing cultural barriers, learning to celebrate difference) rather than being the source of that worldview — plus eight proposed methodological observations for Character Architecture itself, none founder-approved as canonical methodology yet. The eighth, Vertical Inquiry ("Why?"), was flagged as possibly the most significant observation so far.
 
 ## What this experiment is testing
 

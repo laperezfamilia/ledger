@@ -67,6 +67,14 @@ Seven proposed methodological observations surfaced, **none founder-approved as 
 
 **Founder Direction, flagged as a possible defining philosophical shift:** Character Architecture should increasingly resemble biography rather than diagnosis — not "the one thing that explains this person," but how multiple coherent aspects coexist inside the same human.
 
+## 2026-08-02 — Vertical Inquiry ("Why?") — flagged as possibly the most significant methodological observation so far
+
+Full text in the new §8 of `./experiments/beto-2026-08-02-methodology-stress-test.md`. During Beto Discovery Session 1, discovery explored his dream of becoming an internationally-published traveling photographer/videographer — what he'd produce, how it reflected his worldview — without ever asking *why* it became his dream. The founder supplied that origin unprompted: travel transformed Beto's understanding of humanity, teaching him both universal truths that cross cultural barriers and the value of celebrating difference. **Photography turned out to express an already-existing philosophy rather than being its source — the worldview, not the occupation, was the deeper discovery, and it was only reached because the founder volunteered it.**
+
+**Proposed distinction:** Character Architecture discovery has mostly progressed *horizontally* so far (more scenes, more relationships, more behaviors — breadth). This session suggests it also needs *vertical* inquiry (origins, meaning, worldview, formation — depth): whenever a stable life choice appears, pause and ask why it became important, what experience made it meaningful, what belief emerged from that experience. Both appear necessary; neither replaces the other.
+
+**Open question this raises** (see `./open-questions.md`): should horizontal and vertical inquiry alternate throughout discovery, or should vertical inquiry only happen once a pattern has stabilized? Founder observation: if Character Architecture is meant to be a repeatable discipline, "Why?" should become a deliberate methodological behavior rather than depending on researcher intuition. **Status: working methodology only, not proposed as canonical process until tested across additional sessions and characters.**
+
 ## 2026-08-02 — Working observation: the Proposed Character Architecture Experiment Lifecycle
 
 **Status: Working observation, not established methodology.** Observed only through Experiment 1 (Sofía) so far — a single case, not yet a pattern confirmed by replication.

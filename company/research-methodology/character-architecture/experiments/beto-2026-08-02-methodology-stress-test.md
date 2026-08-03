@@ -86,6 +86,25 @@ But: Principle → Foundational Scene → Supporting Scene(s) → Interpretation
 
 This allows future collaborators to independently evaluate whether the conclusion remains warranted.
 
+### 8. Vertical Inquiry ("Why?") — flagged as possibly the most significant observation so far
+
+**Observation:** Beto's dream is to become a traveling photographer/videographer whose documentary work is published internationally. Discovery immediately began exploring what kind of work he'd produce, how it reflected his worldview, how it connected to his values — but did not ask *why this became his dream*. The founder supplied that explanation without prompting: travel transformed Beto's understanding of humanity — he experienced universal truths crossing cultural and language barriers while simultaneously learning to celebrate differences. **Photography turned out to be the expression of an already-existing philosophy, not the source of it. The worldview, not the occupation, was the deeper discovery** — and it was only reached because the founder volunteered it, not because the process asked for it.
+
+**Proposed methodology observation:** Character Architecture should not stop after identifying major life choices. Whenever a stable life choice appears, the methodology should intentionally probe its origin. Current questioning often progresses *horizontally* (another behavior, another scene, another relationship). Experiment 2 suggests Character Architecture also needs *vertical* inquiry — instead of immediately expanding outward, pause and ask: Why? Why did this become important? What experience made this meaningful? What belief emerged from that experience? The goal isn't endless interrogation — it's discovering the meaning structure beneath significant life decisions.
+
+**Working distinction:**
+
+| | Horizontal Inquiry | Vertical Inquiry |
+|---|---|---|
+| Expands | Breadth | Depth |
+| Examples | More scenes, more relationships, more behaviors | Origins, meaning, worldview, formation, life philosophy |
+
+Both appear necessary. Neither replaces the other.
+
+**Working research question (open, see `../open-questions.md`):** should Character Architecture intentionally alternate between horizontal and vertical inquiry throughout discovery, or should vertical inquiry only occur after a stable pattern has emerged?
+
+**Founder Observation:** if Character Architecture is meant to become a repeatable discipline, "Why?" should become a deliberate methodological behavior rather than depending on researcher intuition. Future users should be guided to probe beneath important occupations, dreams, values, and long-term goals rather than accepting them as endpoints.
+
 ---
 
 ## Founder Direction: Biography, Not Diagnosis

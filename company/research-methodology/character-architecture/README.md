@@ -76,7 +76,7 @@ Explicitly recording an experiment's lifecycle *state* may prove more useful tha
 
 ## Experiment 2 (Beto) — Now Underway (2026-08-02)
 
-Discovery Active. See `./experiments/beto.md` and `./experiments/beto-2026-08-02-methodology-stress-test.md`. Experiment 2 has an explicit dual purpose — discover Beto Pérez, and simultaneously stress-test this program's own methodology (the Documentation Convention, the Discovery/Preservation split, the Working Thesis, and the Experiment Lifecycle above). Seven proposed methodological observations have surfaced so far, all `working`, none founder-approved as canonical methodology yet — see `./research-log.md`'s 2026-08-02 entry and `./open-questions.md` for the specific open questions each one raises. **The Documentation Convention below is unchanged** — nothing here has been promoted.
+Discovery Active. See `./experiments/beto.md` and `./experiments/beto-2026-08-02-methodology-stress-test.md`. Experiment 2 has an explicit dual purpose — discover Beto Pérez, and simultaneously stress-test this program's own methodology (the Documentation Convention, the Discovery/Preservation split, the Working Thesis, and the Experiment Lifecycle above). Eight proposed methodological observations have surfaced so far, all `working`, none founder-approved as canonical methodology yet — see `./research-log.md`'s 2026-08-02 entries and `./open-questions.md` for the specific open questions each one raises. The eighth, **Vertical Inquiry ("Why?")** — pausing to probe the origin of a stable life choice rather than only expanding outward from it — was flagged as possibly the most significant observation so far. **The Documentation Convention below is unchanged** — nothing here has been promoted.
 
 ## Structure
 
