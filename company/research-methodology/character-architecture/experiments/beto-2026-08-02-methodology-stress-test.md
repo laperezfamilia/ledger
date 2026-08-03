@@ -125,6 +125,22 @@ The methodology should not automatically treat the second category as incomplete
 
 **Status:** working methodology observation only. Requires testing across additional characters and non-artistic domains before consideration as a broader methodological principle.
 
+### 10. Recognition as an Active Discovery Phenomenon
+
+**Observation:** throughout this session, neither Jamie nor Solara primarily evaluated scenes by asking "is this internally consistent?" or "does this fit the existing character model?" Instead, the spontaneous language repeatedly became *"that feels like Beto,"* *"I recognize him,"* *"that's who he was becoming,"* *"of course that's Beto"* — emerging naturally, not intentionally.
+
+**Emerging working observation:** recognition may not simply be the desired *outcome* of Character Architecture (as in the program's Founder-Approved Working Thesis, above) — it may also be an *active signal during discovery itself*. As evidence accumulates, there appears to be a transition where the researcher no longer feels they're inventing responses or checking consistency, and instead begins recognizing the character as the character reveals themselves through successive scenes. Described as qualitatively different from merely maintaining consistency.
+
+**Possible language addition:** alongside "discovering and preserving identity," future methodology may also describe the process as **recognizing the character as they reveal themselves** — wording that intentionally preserves the research posture: the researcher is neither manufacturing identity nor passively waiting, but progressively recognizing a coherent human identity emerging through accumulated observation.
+
+**Open research questions** (see `../open-questions.md`):
+- Does this recognition phenomenon reliably occur across multiple character experiments?
+- Does it emerge at approximately the same stage of discovery?
+- Can recognition itself become a methodological signal that sufficient evidence has accumulated for deeper preservation work?
+- **How should this differ from confirmation bias or projection?** *(`ledger` note: this question sits in direct tension with observation §1 above, "Confirmation Bias Toward Early Organizing Principles" — both concern a researcher's subjective sense of rightness converging on a reading of the character, but §1 treats that convergence as a risk to guard against, while §10 treats a related-sounding convergence as a possible positive signal. Whether "recognition" and "premature confirmation bias" are reliably distinguishable in the moment, or only in hindsight once evidence accumulates, is itself unresolved — flagged here rather than assumed resolved by either observation individually.)*
+
+**Status:** working methodology observation only. Requires replication across future experiments before any promotion to established methodology.
+
 ---
 
 ## Founder Direction: Biography, Not Diagnosis

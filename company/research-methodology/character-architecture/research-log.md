@@ -87,6 +87,14 @@ Full text in the new §9 of `./experiments/beto-2026-08-02-methodology-stress-te
 
 **Open question this raises** (see `./open-questions.md`): should Tacit Expertise / Embodied Judgment become its own category of evidence alongside observation, motivation, and worldview, or is it just a specialized form of observation? **Status: working methodology observation only, requires testing across additional characters and non-artistic domains.**
 
+## 2026-08-02 — Recognition as an Active Discovery Phenomenon
+
+Full text in the new §10 of `./experiments/beto-2026-08-02-methodology-stress-test.md`. Throughout this session, spontaneous language repeatedly became "that feels like Beto," "I recognize him," "of course that's Beto," rather than "is this internally consistent?" or "does this fit the model?"
+
+**Emerging observation:** recognition may not simply be the desired *outcome* of Character Architecture (per the Founder-Approved Working Thesis above) — it may also be an *active signal during discovery itself*, a qualitatively different experience from checking consistency. **Possible language addition:** describe the process as "recognizing the character as they reveal themselves," alongside "discovering and preserving identity."
+
+**Open questions raised** (see `./open-questions.md`): does this recur reliably across experiments, at roughly the same discovery stage? Can it become a signal that enough evidence has accumulated for preservation work? And — flagged explicitly as an internal tension, not resolved — **how should this differ from confirmation bias or projection**, given this program's own §1 observation ("Confirmation Bias Toward Early Organizing Principles") treats a related subjective convergence as a risk to guard against. **Status: working methodology observation only, requires replication before any promotion.**
+
 ## 2026-08-02 — Working observation: the Proposed Character Architecture Experiment Lifecycle
 
 **Status: Working observation, not established methodology.** Observed only through Experiment 1 (Sofía) so far — a single case, not yet a pattern confirmed by replication.
