@@ -44,9 +44,10 @@ This document is the high-level map. Over time, each research program can grow i
 
 **Working Hypothesis:** Belonging, meaningful interaction, contextual learning, and psychologically safe practice produce stronger conversational ability than traditional grammar-first instruction alone.
 
-**Program folder:** `./educational-philosophy/` — created 2026-08-02. Holds two files:
+**Program folder:** `./educational-philosophy/` — created 2026-08-02. Holds three files:
 - `./educational-philosophy/educational-research-sources.md` (proposed, not yet adopted) — Language Transfer, Dreaming Spanish, Qroo Paul, and the evaluation questions for adopting any principle from them.
 - `./educational-philosophy/educational-brief-v1.0-recovered.md` (Recovered Working Draft, not canon) — recovered from the Educational Philosophy discovery thread; scoped to Sofía's YouTube channel specifically, not the full cross-product Educational Philosophy or Educational Architecture. Explicitly distinguishes Educational Philosophy / Educational Architecture / Curriculum Architecture / Sofía's Teaching Philosophy as four layers that should not be merged.
+- `./educational-philosophy/conversational-immersion-observation-2026-08-02.md` (Working Observation & Working Thesis, not canon) — a spontaneous conversation where Jamie began speaking Spanish unprompted mid-discussion and Solara responded conversationally rather than switching into "lesson mode." Working Thesis: the strongest AI language teacher may behave like a trusted conversation partner who enriches language exactly when the learner is ready, rather than a tutor who interrupts to teach. First experiential (not conceptual) data point for several existing working artifacts — flagged, not merged.
 
 *(`ledger` note: likely connects to "Jamie's Instructional Philosophy," currently a discovery draft inside `casa-perez/projects/agrupa/master-reference-v1.4.md` §3 — not confirmed the same material.)*
 

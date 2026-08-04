@@ -106,6 +106,7 @@ ledger/
       educational-philosophy/
         educational-research-sources.md
         educational-brief-v1.0-recovered.md
+        conversational-immersion-observation-2026-08-02.md
       design-research/
         README.md
         emotional-role-architecture.md
