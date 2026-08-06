@@ -9,7 +9,7 @@ related: ./BYG-PRD-001.md, ./BYG-PRD-001-amendments.md, ./BYG-UX-001-foundation-
 
 # BYG-PRD-001: Before You Go — MVP Product Specification
 
-**Version 1.17 | Status: Foundation v1.1, Approved Build Authority — pending audio validation deliverable (§5)**
+**Version 1.17 | Status: Foundation v1.2, Approved Build Authority — pending audio validation deliverable (§5)**
 Governs against: BYG-GOV-001 (Product Constitution). Voice governed by: BYG-DES-001 (Voice & Design Language). Screen-level UX: BYG-UX-001.
 
 **Lineage note (2026-08-01):** filed under this distinguishing filename, not `BYG-PRD-001.md`, because `BYG-PRD-001.md` and `BYG-PRD-001-amendments.md` already hold earlier content (§7 "Post-Capture Decision Tree & Edit/Refine Allowances," §7a "Conversation Continuity") that **does not match this document** — different §7 topic entirely, no Edit Situation/Refine dual-allowance model, no Context/Preparation continuity data model anywhere here. Per Jamie's explicit instruction, both sources are preserved as-is, unreconciled, until provenance is investigated. See `./BYG-PRD-001.md` and `./BYG-PRD-001-amendments.md` for the earlier material and the matching note there. Tracked in `STATE.md` org debt.

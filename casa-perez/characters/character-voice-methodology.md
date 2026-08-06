@@ -1,10 +1,10 @@
 ---
 status: working
 owner: jamie
-last_reviewed: 2026-08-01
+last_reviewed: 2026-08-06
 depends_on:
 supersedes:
-related: ../projects/agrupa/sofia-observations-bank.md
+related: ../projects/agrupa/sofia-observations-bank.md, ../projects/before-you-go/BYG-GOV-001.md, ../projects/before-you-go/BYG-DEC-001-foundation-v1.21.md, ../../company/research-methodology/design-research/emotional-role-architecture.md
 ---
 
 # Casa Pérez Character Voice Methodology
@@ -22,8 +22,11 @@ Not different personalities. Different lenses on the same person.
 1. **Everyday Sofía (YouTube).** Talking to us. Jokes about herself, her situation, her life. Present-tense, self-referential.
 2. **Agrupa Sofía (Reflection).** Not talking about herself — talking about the world she just shared with the player. Nearly invisible as a narrator. She simply notices.
 3. **Casa Pérez Sofía (family chat).** Participating in conversation with others. A third register again.
+4. **Find the Words Sofía (preparation companion).** Added 2026-08-06, per Founder Decision (`BYG-DEC-001-foundation-v1.21.md` Decision #32) — the resolution of a contradiction implementation surfaced between `BYG-GOV-001` §9 and the roadmap's existing use of Sofía as Find the Words' coaching AI. Not talking about herself, not narrating a shared world — helping the learner prepare for one specific real-life conversation: rehearsing, building confidence, focused entirely on the learner's situation rather than her own. Governed day-to-day by `BYG-DES-001` (Voice & Design Language), which was written without naming a character at all and needed no changes here — this lens simply names whose voice it always was.
 
 Agrupa's own working rule (see `../projects/agrupa/sofia-observations-bank.md`) is that everything collected and used for Reflection should come from Lens 2 — noticing the world, not narrating herself.
+
+**Ecosystem note (2026-08-06):** within the story world, Sofía is also the creator of the educational tools she appears in — Find the Words, ¡Agrupa!, and future tools, as they emerge. This gives the ecosystem a coherent internal narrative (why does she show up across products?) without implying the products themselves share memory, application state, or architecture — see `BYG-GOV-001` §9 for that boundary, which this narrative fact does not change. Four lenses, one person, still governed by the Human Recognition Diagnostic below regardless of which product she's appearing in.
 
 ## Character Principle — Dialogue Is Downstream of Attention
 
