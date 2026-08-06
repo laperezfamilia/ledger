@@ -100,6 +100,8 @@ When a new situation resembles a past one:
 
 *Flag: this is a recommendation, not a locked decision. Confirm during architecture review. Semantic similarity search is the fallback if tagging proves too coarse in testing. Owner: Claude; trigger: structured pack schema and saved-history model finalized (BYG-DEC-001 parking lot).*
 
+*Trigger status (2026-08-06): the structured pack schema half of this trigger is now complete — `src/lib/ready-packs/types.ts` in `casa-perez-hq/find-the-words`. The saved-history model half is not: no persistence exists yet, and it depends on an accounts/auth decision not yet made anywhere in `ledger`. This flag remains deferred, not yet eligible for architecture review, until both halves are met — surfaced by implementation, not resolved by it.*
+
 *CEFR interaction (§18): situation-matching for retrieval must include CEFR level as part of the match key, not just situation type + entities. A same-level revisit (e.g., "Walking Athena" requested again at the learner's existing A1 pack) is a retrieval-with-variation case per this section. A different-level request for the same situation (§18's "Try this at another level") is a distinct, deliberate new generation — not a retrieval-and-vary case — and must not blend register/complexity across levels.*
 
 *Dialect interaction (§20): dialect is also part of the match key, alongside CEFR level. Unlike level, dialect is not something learners are expected to deliberately vary pack-to-pack (§20) — so a retrieval match should ordinarily use the learner's current `default_dialect` rather than surfacing a dialect switcher. Never blend Mexican and Peninsular Spanish within a single retrieved-and-varied pack.*
