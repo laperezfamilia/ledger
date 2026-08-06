@@ -23,7 +23,7 @@ related: ../../governance/GOV-004-escalation-redirect-principles-DRAFT.md, ../..
 - **✅ Next.js (React)** — approved. Deciding factor: ecosystem size, given Casa Pérez is building with an AI-assisted engineering workflow specifically — a larger ecosystem means stronger AI-coding-assistant performance over the company's lifetime, not just more documentation.
 - **✅ Vercel** — approved, with the lock-in tradeoff explicitly acknowledged and accepted for the MVP stage. Named as the layer to revisit first if the company grows significantly; Netlify remains the known fallback if that becomes live.
 - **✅ Supabase** — approved. Standard PostgreSQL underneath keeps the data layer portable, consistent with the same anti-proprietary-silo instinct already governing this whole repo's own choice of Git and Markdown.
-- **🟡 Stripe — open, pending one dedicated Founder Decision.** Not a disagreement with Stripe itself; the question is whether a Merchant of Record alternative (Paddle, LemonSqueezy) fits better given expected international customer geography and tax compliance, given this product's inherent likelihood of non-US customers. Needs its own conversation before locking in.
+- **✅ Paddle (Merchant of Record)** — resolved, replacing the earlier Stripe-only recommendation. Changed by a real Founder Decision: Casa Pérez is globally available from day one, not US-first. EU VAT applies near-immediately regardless of volume, unlike US sales tax's more forgiving economic-nexus thresholds — global-from-day-one plus a three-person team with no in-house tax/accounting capacity point toward Merchant of Record together, not against each other. Paddle specifically substitutes for the accountant the team doesn't have, rather than requiring one — this decision doesn't need professional sign-off precisely because choosing Paddle is what avoids needing it.
 - **✅ Anthropic's API (Claude)** for Sofía's coaching behavior — approved, specifically *behind a provider abstraction layer* (see `company/product-process/engineering-principles.md`, new). No separate backend service for v1 — Next.js API routes/server actions are sufficient at this scale.
 
 ## Long-term architecture: PWA now, native later
@@ -48,9 +48,23 @@ This resolves the tension between moving fast and not rushing safety review: the
 
 ## Open founder decisions, still pending
 
-- Stripe vs. Merchant of Record (Paddle/LemonSqueezy) — needs its own dedicated conversation on expected customer geography and tax compliance.
-- Review of the escalation/redirect safety draft (Jamie's pass, then real clinical/legal review).
-- Entity/ownership resolution before real revenue moves through the product.
+- Review of the escalation/redirect safety draft (Jamie's pass, then real clinical/legal input).
+- Entity/ownership resolution — self-serve, see checklist below.
+
+## Professional review checklist (2026-08-03)
+
+**Context:** the team currently has no retained outside legal, clinical, or accounting advisors. That doesn't remove the need for real professional input in a few places — it means that input should be scoped and one-time where possible, not assumed to require an ongoing relationship. Distinguishing genuine launch blockers from decisions the team can reasonably make itself now, revisiting later as the company scales.
+
+**Requires real professional input before launch — no responsible way around it:**
+- The escalation/redirect crisis-response protocol, before live Sofía coaching reaches any real user. Build the draft from established public guidance (e.g. the 988 Suicide & Crisis Lifeline publishes free resources on exactly this), then get one scoped, one-time paid consultation with a mental health professional to check the actual language before it ships — not a retainer, a single session.
+
+**Reasonable to decide and act on now — revisit with real professional input later, not before launch:**
+- **Business entity formation.** Self-service formation (e.g. direct state filing, or a reputable formation service) is fine for a solo founder with no co-founders or investors yet. Real legal counsel becomes clearly worth the cost once there's equity to split or outside investment to structure — not required for a simple single-owner LLC.
+- **Privacy Policy and Terms of Service.** Draft carefully now from credible frameworks and templates. Real legal review matters before this scales meaningfully past the initial beta cohort, not before the first user.
+- **Payment processor choice.** Resolved above — Paddle was chosen specifically because it substitutes for the accountant the team doesn't have, not because professional sign-off was obtained.
+
+**Flagged for later, not urgent, not blocking anything now:**
+- Trademark protection for "Casa Pérez" and character names — worth doing before someone else registers it, but doesn't block building.
 
 ## Repository status (2026-08-03)
 
