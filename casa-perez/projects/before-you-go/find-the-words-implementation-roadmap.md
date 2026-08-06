@@ -18,14 +18,13 @@ related: ../../governance/GOV-004-escalation-redirect-principles-DRAFT.md, ../..
 3. **First commit: minimal, not a framework scaffold.** A README stating the repo's purpose and linking back to `ledger` as the source of governing philosophy and specs, plus a `.gitignore`. Framework scaffolding follows stack confirmation, not the other way around.
 4. **Transition point from `ledger` to the product repo:** once the stack is confirmed and the safety draft has had a founder review pass. `ledger` remains the source of truth for governance, character voice, and product philosophy going forward — the product repo is where implementation happens, built to comply with what's specified here, not to duplicate or drift from it.
 
-## Technology stack (proposed, pending founder confirmation)
+## Technology stack (2026-08-03 — Founder Decision, mostly confirmed)
 
-- **Next.js (React)** for the app — PWA-capable, deploys cleanly, and if a later move to React Native happens, logic and patterns carry forward more than most alternatives.
-- **Vercel** for hosting.
-- **Supabase** for database and auth together.
-- **Stripe** for payments.
-- **Anthropic's API (Claude)** for Sofía's coaching behavior specifically — suited to the nuanced, richly-specified persona instruction this character voice work already requires.
-- No separate backend service for v1 — Next.js API routes/server actions are sufficient at this scale.
+- **✅ Next.js (React)** — approved. Deciding factor: ecosystem size, given Casa Pérez is building with an AI-assisted engineering workflow specifically — a larger ecosystem means stronger AI-coding-assistant performance over the company's lifetime, not just more documentation.
+- **✅ Vercel** — approved, with the lock-in tradeoff explicitly acknowledged and accepted for the MVP stage. Named as the layer to revisit first if the company grows significantly; Netlify remains the known fallback if that becomes live.
+- **✅ Supabase** — approved. Standard PostgreSQL underneath keeps the data layer portable, consistent with the same anti-proprietary-silo instinct already governing this whole repo's own choice of Git and Markdown.
+- **🟡 Stripe — open, pending one dedicated Founder Decision.** Not a disagreement with Stripe itself; the question is whether a Merchant of Record alternative (Paddle, LemonSqueezy) fits better given expected international customer geography and tax compliance, given this product's inherent likelihood of non-US customers. Needs its own conversation before locking in.
+- **✅ Anthropic's API (Claude)** for Sofía's coaching behavior — approved, specifically *behind a provider abstraction layer* (see `company/product-process/engineering-principles.md`, new). No separate backend service for v1 — Next.js API routes/server actions are sufficient at this scale.
 
 ## Long-term architecture: PWA now, native later
 
@@ -49,6 +48,12 @@ This resolves the tension between moving fast and not rushing safety review: the
 
 ## Open founder decisions, still pending
 
-- Entity/ownership resolution before real assets get created.
-- Stack confirmation (or redirection).
-- Review of the escalation/redirect safety draft.
+- Stripe vs. Merchant of Record (Paddle/LemonSqueezy) — needs its own dedicated conversation on expected customer geography and tax compliance.
+- Review of the escalation/redirect safety draft (Jamie's pass, then real clinical/legal review).
+- Entity/ownership resolution before real revenue moves through the product.
+
+## Repository status (2026-08-03)
+
+- GitHub Organization created: `casa-perez-hq`.
+- Product repository created: `find-the-words`, private, README initialized, Node `.gitignore` added.
+- `ledger` remains under the personal account, not yet transferred — deliberately sequenced after confirming the organization itself works, per the migration plan in `STATE.md`.
