@@ -1,10 +1,10 @@
 ---
 status: canon
 owner: jamie
-last_reviewed: 2026-08-01
+last_reviewed: 2026-08-06
 depends_on: ./BYG-GOV-001.md, ./BYG-DES-001.md
 supersedes:
-related: ./BYG-PRD-001.md, ./BYG-PRD-001-amendments.md, ./BYG-UX-001-foundation-v1.6.md, ./BYG-DEC-001-foundation-v1.21.md, ../../governance/GOV-004-product-scope-safety-responsible-use.md
+related: ./BYG-PRD-001.md, ./BYG-PRD-001-amendments.md, ./BYG-UX-001-foundation-v1.6.md, ./BYG-DEC-001-foundation-v1.21.md, ../../governance/GOV-004-product-scope-safety-responsible-use.md, ./find-the-words-implementation-roadmap.md
 ---
 
 # BYG-PRD-001: Before You Go — MVP Product Specification
@@ -144,6 +144,13 @@ Practical fields only, per BYG-GOV-001 §8:
 No relationship, character, or narrative-continuity fields.
 
 ## 11. Build Stack
+
+**Correction note (2026-08-06):** this section originally named FlutterFlow as the primary build environment (text preserved below for history, per this repository's practice of correcting rather than silently erasing). That was superseded by a later, more specific Founder Decision — the 2026-08-03 stack review recorded in `find-the-words-implementation-roadmap.md` and `STATE.md` — which approved **Next.js (React), Vercel, Supabase, Paddle, and Anthropic's API behind a provider abstraction layer** instead. Implementation is already underway against the newer stack (`casa-perez-hq/find-the-words`), so this is documentation drift being reconciled, not an open design question.
+
+**Current build stack:** see `find-the-words-implementation-roadmap.md` ("Technology Stack," 2026-08-03 Founder Decision) for the authoritative, current record. That decision also resolves this section's own open flag below: no separate backend service for V1 — Next.js API routes/Server Actions serve as the AI orchestration and data-access layer, in place of the FlutterFlow-era assumption that this needed its own separate scoping.
+
+**Original text (superseded, kept for history only):**
+
 FlutterFlow is the primary build environment. FlutterFlow AI generates the majority of screens; Jamie's role is Creative Director rather than UI engineer. Codex provides engineering support rather than initial architecture.
 
 The AI orchestration backend (pack generation, refinement, retrieval, audio pipeline) is a distinct engineering surface from the FlutterFlow screens and needs its own scoping.
