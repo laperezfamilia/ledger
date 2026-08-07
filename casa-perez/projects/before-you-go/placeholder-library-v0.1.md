@@ -11,11 +11,11 @@ related: ./BYG-DEC-001-foundation-v1.21.md, ./BYG-PRD-001-foundation-v1.17.md
 
 **Provenance:** recovered by Jamie from `BYG_Placeholder_Library_v0.1_QA.xlsx`, post-Editorial Pass 2 — the actual content asset `BYG-UX-001-foundation-v1.6.md` §2.5 referred to but never reproduced ("tracked in a separate content asset... rather than reproduced in this governance document"). This file is that asset, now recovered into `ledger`.
 
-**Verified against the documented QA history before being committed here** (`BYG-DEC-001-foundation-v1.21.md` Decisions #25–31), not accepted on trust: the count (171 = 180 drafted − 6 removed − 3 archived) and the per-collection breakdown (97 Foundation Batch + 34 Future Practice + 40 Relationship = 171) both match exactly. The specific entries Decision #31 recorded as rewritten (#28, #31, #98, FP-30) match its final approved wording verbatim. Governing philosophy and mechanism are locked in `BYG-UX-001-foundation-v1.6.md` §2.5–2.7 — this file is the content itself, not a restatement of the governance.
+**Verified twice, not accepted on trust.** First, against the documented QA history (`BYG-DEC-001-foundation-v1.21.md` Decisions #25–31): the count (171 = 180 drafted − 6 removed − 3 archived) and the per-collection breakdown (97 Foundation Batch + 34 Future Practice + 40 Relationship = 171) both matched exactly. Second, once Jamie supplied the actual `.xlsx` directly: every one of the 171 active entries' text was diffed programmatically against the source file's "QA Tracker" sheet — **zero mismatches, zero missing.** The Summary sheet's own metrics also confirm: 13 revised & approved, 9 excluded (6 removed + 3 archived), 9 Athena appearances (6 Foundation Batch + 3 Future Practice), 0 remaining Conversation Test borderlines. Governing philosophy and mechanism are locked in `BYG-UX-001-foundation-v1.6.md` §2.5–2.7 — this file is the content itself, not a restatement of the governance. Each of the 13 rewritten entries below now carries its original wording inline, and the 9 excluded entries are preserved in the audit-trail appendix — detail Decision #30 said existed "in the tracked content asset" but that had never actually reached `ledger` until now.
 
 **Status: working draft, not production-locked.** Architecture and governing philosophy (§2.5–2.7) are locked; individual entries here remain intentionally editable through future QA passes, per that same governance. Already passed the documented editorial process (Conversation Test, Tiny Story Test, Editorial Passes 1–2) — no further review implied by recovering it here.
 
-**Intent framing** (PRD §1's two locked input intents): the Foundation Batch is immediate-framed throughout. Future Practice and Relationship are both future-practice-framed ("I'd like to…") — per Decision #29, Relationship splits the library by *topic*, not by a third intent; treat both collections as future-practice for intent-balance accounting (108 future-practice : 97 immediate across the active library).
+**Intent framing** (PRD §1's two locked input intents): the Foundation Batch is immediate-framed throughout. Future Practice and Relationship are both future-practice-framed ("I'd like to…") — per Decision #29, Relationship splits the library by *topic*, not by a third intent; treat both collections as future-practice for intent-balance accounting. **Corrected here against the verified source:** 97 immediate : 74 future-practice (34 Future Practice + 40 Relationship) across the active library — an earlier draft of this note miscalculated this as 108:97, an arithmetic error caught only by checking the actual Summary sheet rather than re-deriving it by hand.
 
 ---
 
@@ -48,10 +48,10 @@ related: ./BYG-DEC-001-foundation-v1.21.md, ./BYG-PRD-001-foundation-v1.17.md
 25. I'm meeting my son's teacher after school.
 26. I need to call my insurance company.
 27. I'm checking into a beach resort this afternoon.
-28. Athena made a new dog friend at the park, and I want to ask if they come there often.
+28. Athena made a new dog friend at the park, and I want to ask if they come there often. *(rewritten from: "Athena made a new dog friend today.")*
 29. I want to text my cousin to see how she's doing.
 30. I'm picking up a birthday cake after work.
-31. I'm boarding my flight in an hour, and I want to ask if I can switch to an aisle seat.
+31. I'm boarding my flight in an hour, and I want to ask if I can switch to an aisle seat. *(rewritten from: "I'm boarding my flight in an hour.")*
 32. I'm meeting my new nephew for the first time.
 33. I need to ask if I can rent a bike for the day.
 34. I'm meeting my new neighbors tonight.
@@ -115,7 +115,7 @@ related: ./BYG-DEC-001-foundation-v1.21.md, ./BYG-PRD-001-foundation-v1.17.md
 95. I'm introducing our new teammate this morning.
 96. I'm ordering from a food truck I've never tried before.
 97. I need to ask when my package will arrive.
-98. I'm going to my first concert in Spain, and I want to chat with people while we wait in line.
+98. I'm going to my first concert in Spain, and I want to chat with people while we wait in line. *(rewritten from: "I'm going to my first concert in Spain.")*
 99. I want to tell my sister how much I appreciate her.
 100. I'm welcoming our exchange student at the airport today.
 
@@ -138,24 +138,24 @@ FP-13. I'd like to practice flirting without feeling awkward.
 FP-15. I'd like to encourage my son in Spanish during his soccer games.
 FP-16. I'd like to thank my mom more often in Spanish.
 FP-17. I'd like to call my dad more often and speak a little more Spanish together.
-FP-20. I'd like to know how to apologize to a friend without it feeling awkward.
+FP-20. I'd like to know how to apologize to a friend without it feeling awkward. *(rewritten from: "I'd like to get better at apologizing when I need to.")*
 FP-21. I'd like to text my cousin in Spanish more often.
 FP-22. I'd like to thank Leo after another great game.
 FP-24. I'd like to send encouraging messages before big interviews.
 FP-25. I'd like to practice chatting with my gaming friends after we play.
-FP-27. I'd like to be the one who says hello first at my new gym.
+FP-27. I'd like to be the one who says hello first at my new gym. *(rewritten from: "I'd like to get better at starting conversations instead of waiting for someone else.")*
 FP-28. I'd like to invite friends over in Spanish.
 FP-29. I'd like to congratulate my friends on birthdays and good news.
-FP-30. I'd like to keep chatting after I meet someone new instead of ending the conversation too soon.
+FP-30. I'd like to keep chatting after I meet someone new instead of ending the conversation too soon. *(revised twice — Pass 1: "I'd like to keep chatting instead of ending the conversation too soon."; Pass 2 added "after I meet someone new" for a concrete setting)*
 FP-31. I'd like to comfort Athena in Spanish when she's scared.
 FP-32. I'd like to chat with other dog owners while Athena plays.
 FP-33. I'd like to explain what Athena needs at the vet.
 FP-34. I'd like to introduce myself with confidence on my first day at work.
-FP-35. I'd like to join the lunchroom conversation instead of eating at my desk.
-FP-36. I'd like to ask a follow-up question in tomorrow's team meeting instead of staying quiet.
+FP-35. I'd like to join the lunchroom conversation instead of eating at my desk. *(rewritten from: "I'd like to feel more comfortable talking with my coworkers.")*
+FP-36. I'd like to ask a follow-up question in tomorrow's team meeting instead of staying quiet. *(rewritten from: "I'd like to ask better questions during meetings.")*
 FP-37. I'd like to practice introducing myself to new neighbors.
-FP-38. I'd like to chat with the barista instead of just pointing at the menu.
-FP-39. I'd like to feel more confident asking for help at the pharmacy.
+FP-38. I'd like to chat with the barista instead of just pointing at the menu. *(rewritten from: "I'd like to feel more confident making everyday small talk.")*
+FP-39. I'd like to feel more confident asking for help at the pharmacy. *(rewritten from: "I'd like to get better at asking for help when I need it.")*
 FP-40. I'd like to feel more like myself when I speak Spanish.
 
 *(FP-11, FP-14, FP-18, FP-19, FP-23, FP-26 intentionally absent — removed/archived per Decisions #30–31.)*
@@ -168,10 +168,10 @@ REL-3. I'd like to flirt a little more naturally in Spanish.
 REL-4. I'd like to tell my boyfriend how much I appreciate him.
 REL-5. I'd like to surprise my girlfriend with a thoughtful text in Spanish.
 REL-6. I'd like to thank my partner for everything they do.
-REL-7. I'd like to apologize to my partner without switching back to English halfway through.
+REL-7. I'd like to apologize to my partner without switching back to English halfway through. *(rewritten from: "I'd like to apologize without struggling to find the right words.")*
 REL-8. I'd like to tell my spouse they made my day.
 REL-9. I'd like to laugh together more in Spanish.
-REL-10. I'd like to talk about our future with my partner instead of always sticking to small talk.
+REL-10. I'd like to talk about our future with my partner instead of always sticking to small talk. *(rewritten from: "I'd like to have deeper conversations with the person I love.")*
 REL-11. I'd like to tell my daughter how proud I am of her.
 REL-12. I'd like to encourage my son before a big game.
 REL-13. I'd like to tell my kids I love them in Spanish more often.
@@ -199,6 +199,26 @@ REL-34. I'd like to tell my friend I'm proud of them.
 REL-35. I'd like to make new friends while I travel.
 REL-36. I'd like to keep in touch with friends in Spanish.
 REL-37. I'd like to invite friends over more often.
-REL-38. I'd like to make the new person at book club feel like they belong.
+REL-38. I'd like to make the new person at book club feel like they belong. *(rewritten from: "I'd like to make someone feel included.")*
 REL-39. I'd like to tell someone they made my day.
 REL-40. I'd like to become the kind of person who reaches out first.
+
+---
+
+## Excluded Entries (audit trail — Removed/Archived, not part of the active 171)
+
+Preserved per the standing audit-trail practice (Decision #30: "marked Removed, not hard-deleted... archived, recoverable, not deleted"). Recovered directly from the source spreadsheet, not previously in `ledger`.
+
+| ID | Status | Text | Reason |
+|---|---|---|---|
+| #64 | Archived | "I want to ask someone to take a picture of us." | Near-duplicate of #59 ("I'm asking someone to take our picture.") — #59 kept as the stronger, more natural immediate-tense phrasing. |
+| #66 | Removed | "Athena gets scared when it thunders, and I want to comfort her in Spanish." | Exact duplicate of #46 — kept #46 as first occurrence. |
+| #75 | Removed | "I'm calling my dad to tell him I got the job." | Exact duplicate of #54 — kept #54 as first occurrence. |
+| FP-11 | Removed | "I'd like to say more sweet things to my husband in Spanish." | Exact duplicate of REL-1 — content fits the Relationship collection more precisely; kept there. |
+| FP-14 | Archived | "I'd like to tell my daughter how proud I am of her in Spanish." | Near-duplicate of REL-11 (daughter pride) — REL-11's cleaner phrasing (no redundant "in Spanish" tag) kept as stronger. |
+| FP-18 | Removed | "I'd like to have longer conversations with my grandmother." | Exact duplicate of REL-21 — kept in Relationship, its stronger thematic home. |
+| FP-19 | Removed | "I'd like to tell my sister how much she means to me." | Exact duplicate of REL-24 — kept in Relationship, its stronger thematic home. |
+| FP-23 | Removed | "I'd like to check in on my best friend more often." | Exact duplicate of REL-31 — kept in Relationship, its stronger thematic home. |
+| FP-26 | Archived | "I'd like to make new friends when I travel." | Near-duplicate of REL-35 ("I'd like to make new friends while I travel.") — REL-35's phrasing kept as slightly more natural. |
+
+**Note on "Removed" vs. "Archived":** both are non-deleting statuses per Decision #30 — the distinction in the source spreadsheet is exact duplicates ("Removed") vs. near-duplicates worth keeping visible for reference ("Archived"), not a difference in recoverability. Both are fully reproduced here either way.
