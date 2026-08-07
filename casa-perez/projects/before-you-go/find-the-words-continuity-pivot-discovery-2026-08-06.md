@@ -98,7 +98,22 @@ Per Jamie's explicit instruction: recorded so future sessions know these were le
 - **The "bad day" design problem.** What a stale, unvisited recurring context feels like when real-life circumstances change — a relationship ending, a pet passing, a job changing. A surface built to witness growth has a quiet inverse it needs to handle with real care, consistent with `BYG-GOV-001` §5's Emotional Position (the learner should leave calmer than they arrived) — not yet designed.
 - **Terminology for the primary object** — intentionally deferred, see §8.
 
-## 10. Meta-observation: why this preservation matters
+## 10. Working hypotheses for the open questions (Discovery only)
+
+**Added same day, after Jamie flagged that preserving the questions without the current thinking behind them would lose exactly the kind of reasoning this document exists to protect.** None of these are Founder Decisions or implementation guidance — they're the current leaning, offered so a future session inherits the *why*, not just the *what*. Numbered to match §9's questions where they correspond directly; three are new observations §9 didn't already name.
+
+1. **Cold start.** Don't fake continuity or manufacture history. "My Life in Spanish" begins empty on purpose — the learner's first real conversation is the first meaningful brick, not a gap to paper over.
+2. **The Return mechanism.** Return shouldn't become its own destination — it should fold into the next Prepare cycle: *"Before we prepare today's Walking Athena conversation, how did last time go?"* Reflection becomes part of preparing again, not a separate trip back into the app. Consistent with, and now more concrete than, the candidate direction already noted in §9 — this is the same idea with a worked example attached.
+3. **The primary object's name.** Still intentionally unresolved (see §8) — architecture, learner-facing vocabulary, and emotional identity may end up using different terms entirely rather than one noun forced to do all three jobs.
+4. **One-off situations.** Some situations stay single moments; others grow into recurring parts of life. The product shouldn't force every preparation into a long-term structure it doesn't want.
+5. **The magic moment** *(new observation, not previously captured in this document)*. The delight isn't the AI generation — it's recognition. The moment someone revisits part of their life and thinks *"I forgot I practiced that"* or *"Look how much this has grown."* Proposed as more emotionally durable than any single AI interaction — a direct extension of §6's Recognition-not-Evaluation thesis.
+6. **What the product removes** *(new framing, not previously captured)*. Not primarily grammar difficulty. **The feeling of having to start over.** Every real conversation has the potential to make the next one easier because the learner doesn't lose what mattered. A sharper, more specific version of §4's differentiation argument.
+7. **Bad-day design.** Don't hide those parts of a life. Don't celebrate them either. Preserve them quietly and respectfully — *"much like old photographs."*
+8. **Annual reflection** *(new concept, not previously captured)*. A yearly "My Year in Spanish" was discussed — explicitly not a productivity report or achievement dashboard, but a quiet witness to how a learner's life has gradually become more bilingual over a year. Recognition, never evaluation — the same discipline as §6, applied at a longer time scale.
+
+**On the loop reframing:** this addition closed with the same reframing already preserved in §7 (*"we're designing for the learner's return, not just their departure"*) — recorded there as reconfirmation, not duplicated here.
+
+## 11. Meta-observation: why this preservation matters
 
 Recovering the old Context/Preparation Continuity Architecture earlier in this same working relationship changed this entire conversation. Without it, tonight would have read as invention rather than recognition — a second, from-scratch design of something already worked through once. This document is preserved in that same spirit: not because the thinking is finished, but so a future session inherits how it evolved, not just where it landed.
 
