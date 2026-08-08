@@ -1,10 +1,10 @@
 ---
 status: working
 owner: jamie
-last_reviewed: 2026-08-02
+last_reviewed: 2026-08-06
 depends_on: ./README.md
 supersedes:
-related: ./README.md, ../educational-philosophy/educational-brief-v1.0-recovered.md, ../character-architecture/README.md
+related: ./README.md, ../educational-philosophy/educational-brief-v1.0-recovered.md, ../educational-philosophy/participation-loop-working-hypothesis.md, ../character-architecture/README.md
 ---
 
 # Recognition vs. Evaluation (Working Thesis)
@@ -39,3 +39,7 @@ A 2026-08-02 pressure-test review surfaced a real risk: "witness" implemented po
 **Emerging distinction, not yet resolved:** characters should only "notice" things a believable human could reasonably notice through ordinary relationship — not hidden analytics, not microscopic behavioral telemetry. Human-scale observation, not instrumented surveillance.
 
 This is **flagged as a future governance question, not merely a UX question** — `casa-perez/governance/GOV-004-product-scope-safety-responsible-use.md` is scoped tightly to Find the Words' conversational boundaries and currently says nothing about learner data, analytics, or behavioral tracking. Nothing in `ledger` currently governs this. A future GOV-### document may be needed to define the warmth/surveillance boundary before Recognition vs. Evaluation is implemented against real telemetry — see `STATE.md` Org Debt.
+
+## Cross-reference: this thesis advanced to a Founder Decision (2026-08-06)
+
+`../educational-philosophy/participation-loop-working-hypothesis.md` builds directly on this thesis — "what should be witnessed and why" — and on 2026-08-06 that broader design direction (Casa Pérez designed around Participation + specific relational Witness) became a real Founder Decision, not just a working thesis. The human-scale-noticing discipline and the warmth/surveillance boundary described above are carried forward unchanged into that decision, including the explicit "never a reward mechanic" framing. This page's own status stays Working Thesis — the Founder Decision settles *that* Casa Pérez witnesses growth this way, not the open questions this page still raises about how the boundary gets implemented.

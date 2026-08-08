@@ -1,10 +1,10 @@
 ---
 status: working
 owner: jamie
-last_reviewed: 2026-08-01
+last_reviewed: 2026-08-06
 depends_on:
 supersedes:
-related: ./evidence-index.md, ./open-questions.md
+related: ./evidence-index.md, ./open-questions.md, ../educational-philosophy/participation-loop-working-hypothesis.md
 ---
 
 # Research Log — Character Architecture
@@ -157,3 +157,7 @@ Four new methodological observations (§14–17) surfaced while doing this organ
 ## 2026-08-02 — Sofía Pérez: Teaching Philosophy (working research artifact)
 
 Full text at `./experiments/sofia-teaching-philosophy.md`. Jamie & Solara supplied a distinct piece of writing on how Sofía naturally helps others learn — welcoming before instructing, valuing courage before correctness, treating mistakes as evidence learning is happening rather than interruptions to it. **Framed by Jamie explicitly as answering a different question than Character Architecture itself:** Character Architecture asks *who is this person?*; Teaching Philosophy asks *how does this person naturally help others learn?* Filed as connected to Experiment 1 but not merged into the v1.0 Reference, and not treated as established methodology — it may prove unique to Sofía, or may become a recurring layer of Character Architecture for characters whose identity includes teaching. **No methodology changes requested.** `ledger` note added to the artifact itself flagging a real convergence with independently-developed material (Jamie's Instructional Philosophy in `casa-perez/projects/agrupa/master-reference-v1.4.md` §3, `casa-perez/FOUNDATION.md`'s Belong → Relax → Engage → Learn principle, and Agrupa's Design Constitution Principle 5 / DP-009) — noted as worth watching, not resolved as cause-and-effect in either direction. Test case: whether this recurs, unprompted, in Experiment 2 (Beto).
+
+## 2026-08-06 — Cross-program note: Participation Loop Founder Decision touches this program's open continuity question
+
+**Status: cross-reference note, not a new observation about Beto or Sofía.** `../educational-philosophy/participation-loop-working-hypothesis.md` records a 2026-08-06 Founder Decision that Casa Pérez will be designed around Participation + specific relational Witness. That document's own pressure-testing (2026-08-05, "Relationship as mechanism, not just environment") argued that Witness specifically requires relationship *continuity* — a generic, memory-less source of warmth can't perform a line like "hace unas semanas me contestabas casi siempre en inglés." That is directly the same territory as this program's own still-open question of whether character-specific continuity outperforms generic AI (see `./open-questions.md`). **The Founder Decision does not resolve that open question** — it commits Casa Pérez to building around continuity-dependent Witness, but whether continuity is doing real causal work (versus generic warmth being sufficient) remains explicitly unresolved research on both sides, now named as one of that document's two narrowed research questions going forward.

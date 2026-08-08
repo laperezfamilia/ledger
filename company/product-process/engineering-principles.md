@@ -1,10 +1,10 @@
 ---
 status: working
 owner: jamie
-last_reviewed: 2026-08-03
+last_reviewed: 2026-08-06
 depends_on:
 supersedes:
-related: ../../casa-perez/projects/before-you-go/find-the-words-implementation-roadmap.md, ../research-methodology/character-architecture/README.md
+related: ../../casa-perez/projects/before-you-go/find-the-words-implementation-roadmap.md, ../research-methodology/character-architecture/README.md, ../research-methodology/educational-philosophy/participation-loop-working-hypothesis.md
 ---
 
 # Engineering Principles (Founder-Approved)
@@ -22,6 +22,12 @@ All AI interactions pass through a provider abstraction layer, so the underlying
 Sofía's Teaching Philosophy, correction style, and any future character's equivalent specifications should live as reviewable, structured content — the same kind of artifact already maintained in `company/research-methodology/character-architecture/` — not hard-coded into prompts scattered through implementation code.
 
 **Why this is a second, related principle rather than a restatement of the first:** principle 1 protects against dependency on a specific *model*. This one protects against dependency on a specific *implementation* — even with a perfect provider-abstraction layer, a character's actual voice could still end up buried and fragmented across application code, making it hard to review, hard to keep faithful to what Character Architecture actually established, and hard to carry forward if the implementation itself is ever rebuilt (e.g., the PWA-to-native transition already planned for Find the Words). Keeping the character specification as portable data means the *identity* stays Casa Pérez's own, independent of both which model runs it and which codebase implements it.
+
+## 3. Recognition/Witness is never a reward mechanic
+
+Any product surface where a character notices or names a learner's growth (Sofía's coaching, future Family Chat surfaces, etc.) must be triggered by what a believable, attentive person could plausibly remember and notice — never by a counter, streak, threshold, or dashboard. If stating the observation accurately would require consulting a log rather than genuine relational memory, it has crossed into surveillance/gamification territory and should not ship as written, regardless of whether the underlying data exists.
+
+**Origin:** Founder Decision (2026-08-06), `company/research-methodology/educational-philosophy/participation-loop-working-hypothesis.md` — Casa Pérez is designed around Participation + specific relational Witness, explicitly *not* a participation→reward model. Filed here because it is a real implementation constraint (no streak counters, no engagement-triggered praise logic, no notification-driven "you haven't practiced in 3 days" mechanics) that applies to any product surface with a character-facing recognition moment, not only Find the Words.
 
 ## Why these are company-level, not Find the Words-specific
 
