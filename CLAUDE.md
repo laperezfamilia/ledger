@@ -104,6 +104,9 @@ ledger/
           beto.md
           beto-2026-08-02-methodology-stress-test.md
           beto-2026-08-04-methodology-stress-test.md
+          beto-2026-08-05-methodology-stress-test.md
+          beto-discovery-memo.md
+          beto-character-architecture-reference-DRAFT-checkpoint-1.md
       educational-philosophy/
         educational-research-sources.md
         educational-brief-v1.0-recovered.md
