@@ -82,7 +82,7 @@ Explicitly recording an experiment's lifecycle *state* may prove more useful tha
 
 ## Experiment 2 (Beto) — Now Underway (2026-08-02)
 
-Discovery Active. See `./experiments/beto.md` and `./experiments/beto-2026-08-02-methodology-stress-test.md`. Experiment 2 has an explicit dual purpose — discover Beto Pérez, and simultaneously stress-test this program's own methodology (the Documentation Convention, the Discovery/Preservation split, the Working Thesis, and the Experiment Lifecycle above). Eleven proposed methodological observations have surfaced so far, all `working`, none founder-approved as canonical methodology yet — see `./research-log.md`'s 2026-08-02 entries and `./open-questions.md` for the specific open questions each one raises. The eighth, **Vertical Inquiry ("Why?")** — pausing to probe the origin of a stable life choice rather than only expanding outward from it — was flagged as possibly the most significant observation so far. The ninth, **Tacit Expertise & Embodied Judgment**, questions whether the methodology's assumption that behavior can usually be traced through explicit reasoning holds for expert/intuitive judgment ("artists have an eye... they know the moment"). The tenth, **Recognition as an Active Discovery Phenomenon**, proposes that "that feels like Beto" may be a signal during discovery itself rather than only the eventual outcome — per founder direction, held as a competing hypothesis against the first observation's confirmation-bias warning, not a settled distinction. The eleventh, **Rhythms of Living**, proposes that stable identity is sometimes expressed through recognizable rhythms (e.g. work transitioning into restoration) rather than any single essential behavior — flagged as a likely future friction point for the scene-anchored Documentation Convention. **The Documentation Convention below is unchanged** — nothing here has been promoted.
+Discovery Active. See `./experiments/beto.md`, `./experiments/beto-2026-08-02-methodology-stress-test.md` (Discovery Session 1), and `./experiments/beto-2026-08-04-methodology-stress-test.md` (Discovery Session 2). Experiment 2 has an explicit dual purpose — discover Beto Pérez, and simultaneously stress-test this program's own methodology (the Documentation Convention, the Discovery/Preservation split, the Working Thesis, and the Experiment Lifecycle above). Thirteen proposed methodological observations have surfaced so far, plus one Founder Decision on artifact structure and one on sequencing, all `working` except where explicitly marked Founder-approved — see `./research-log.md`'s 2026-08-02 and 2026-08-04 entries and `./open-questions.md` for the specific open questions each one raises. The eighth, **Vertical Inquiry ("Why?")** — pausing to probe the origin of a stable life choice rather than only expanding outward from it — was flagged as possibly the most significant observation so far. The ninth, **Tacit Expertise & Embodied Judgment**, questions whether the methodology's assumption that behavior can usually be traced through explicit reasoning holds for expert/intuitive judgment ("artists have an eye... they know the moment"). The tenth, **Recognition as an Active Discovery Phenomenon**, proposes that "that feels like Beto" may be a signal during discovery itself rather than only the eventual outcome — per founder direction, held as a competing hypothesis against the first observation's confirmation-bias warning, not a settled distinction. The eleventh, **Rhythms of Living**, proposes that stable identity is sometimes expressed through recognizable rhythms (e.g. work transitioning into restoration) rather than any single essential behavior — flagged as a likely future friction point for the scene-anchored Documentation Convention. The twelfth, **Discovery Memo vs. Character Architecture Reference**, is a Founder Decision (above) that these are two distinct artifacts, not one. The thirteenth, **the Circumstances Filter**, is a working refinement to the Documentation Convention (above) distinguishing enduring principles from circumstantial/seasonal material. **Drafting Beto's actual Reference is intentionally paused** until enduring principles are identified and stress-tested — see the Founder Decision on sequencing in Discovery Session 2.
 
 ## Structure
 
@@ -94,7 +94,7 @@ character-architecture/
   open-questions.md         ← unresolved research questions, treated as assets, not gaps
   experiments/
     sofia.md                 ← Experiment 1: Sofía Pérez
-    beto.md                  ← Experiment 2: Beto Pérez (Discovery Active, 2026-08-02)
+    beto.md                  ← Experiment 2: Beto Pérez (Discovery Active, Reference drafting paused)
 ```
 
 ## Documentation Convention (Founder Decision — revised 2026-08-01)
@@ -125,6 +125,12 @@ Character Architecture documents should primarily preserve Foundational and Supp
 
 **Character voice is calibrated by resemblance, not pass/fail.** A canonical example functions as a reference anchor to compare new writing against ("does this feel closer to the example, or does it drift?"), not a test with a binary pass/fail outcome the way `casa-perez/projects/agrupa/design-principles-v0.1.md`'s Operational Tests work for puzzle design. Same three-part shape (Principle → Rationale/Interpretation → Test/Example), adapted correctly for character work.
 
+**The Circumstances Filter (working refinement, added 2026-08-04, not yet a research conclusion):** the convention above governs how a principle, once identified, should be evidenced — it has never governed whether a candidate statement is principle-*shaped* in the first place. This gap surfaced concretely during Beto's discovery, when a life circumstance ("rebuilds through quiet daily faithfulness") was nearly promoted into Section I material. Proposed test:
+
+> If the current life circumstances disappeared, would this still describe the character? If yes, candidate architectural principle. If no, it belongs in context, trajectory, or recognition material — not Section I.
+
+A statement can be perfectly well-evidenced with real scenes and still not belong in Section I if what it actually describes is circumstantial rather than enduring. See `./research-log.md`'s 2026-08-04 entry and `./open-questions.md` for the untested edge case this still needs — a genuinely ambiguous instance, not just the one it already caught cleanly.
+
 ## AI/Human Role Division in Discovery (Founder Decision, 2026-08-02)
 
 > The AI should bear the primary burden of hypothesis generation. The human should primarily evaluate, refine, sequence, reject, and recognize. Character Architecture is a recognition-centered collaboration, not a blank-page authoring exercise.
@@ -134,6 +140,21 @@ Character Architecture documents should primarily preserve Foundational and Supp
 **What this means in practice:** the AI's job in a discovery session is to generate candidate readings, scenes, and organizing principles — plentifully, and expecting most of them to be wrong or partial. The human's job is not primarily to generate raw material but to evaluate what's offered, refine what's close, sequence what order to pursue things in, reject what doesn't fit, and — per Beto Discovery Session 1's observation on recognition (`./research-log.md`, 2026-08-02) — recognize the character as they emerge through that evaluated material.
 
 **Consistent with, not new relative to, what's already been observed this session:** this names the role division that Experiment 2's own findings have been implicitly describing — "Founder Corrections Are First-Class Research Data" (`./experiments/beto-2026-08-02-methodology-stress-test.md` §3) treats the human's evaluative corrections as the primary evidence-bearing act, and "Recognition as an Active Discovery Phenomenon" (§10) locates the human's distinctive contribution in recognition specifically. This decision makes that division explicit and prescriptive rather than leaving it implicit in how sessions happened to unfold.
+
+## Discovery Memo vs. Character Architecture Reference — Two Distinct Artifacts (Founder Decision, 2026-08-04)
+
+**Status: Founder Decision on artifact structure**, applying to every future experiment, not just Beto.
+
+Every experiment produces two different kinds of writing, and they should stay in two different documents rather than one:
+
+- **Discovery Memo** — the raw research record: observations, evidence patterns, methodological discoveries, tensions, emerging hypotheses, confidence levels, open questions, exactly as they occur.
+- **Character Architecture Reference** — the distilled architectural document, following the structure established through Sofía (Reference Metadata → Section I Principles → Recognition Portrait → Character Compass → Closing).
+
+**Why this needed saying explicitly:** Experiment 2 had begun conflating the two — trying to write the distilled Reference and the raw research record as one document — before catching the mistake during a structural review. Left uncorrected, this would have quietly degraded both: a Reference cluttered with research-in-progress, and a research record forced prematurely into an architecture it hadn't earned yet.
+
+**Connection to existing research, not a new distinction:** this maps directly onto the Discovery/Preservation working observation (`./research-log.md`, 2026-08-01) — the Discovery Memo is Discovery's raw record, the Reference is Preservation's distilled output. The two-artifact rule is arguably what that earlier observation already implied; it took a second experiment to force it into the open.
+
+Full framing at `./experiments/beto-2026-08-04-methodology-stress-test.md` §12.
 
 ## Guiding Research Principles
 
