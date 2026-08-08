@@ -111,6 +111,7 @@ ledger/
         educational-research-sources.md
         educational-brief-v1.0-recovered.md
         conversational-immersion-observation-2026-08-02.md
+        participation-loop-working-hypothesis.md
       design-research/
         README.md
         emotional-role-architecture.md
