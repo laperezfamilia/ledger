@@ -1,13 +1,28 @@
 ---
 status: working
 owner: jamie
-last_reviewed: 2026-08-10
+last_reviewed: 2026-08-13
 depends_on: ../projects/before-you-go/, ./GOV-004-product-scope-safety-responsible-use.md, ../../company/governance/operating-model.md
 supersedes:
 related: ../projects/before-you-go/find-the-words-implementation-roadmap.md, ../projects/before-you-go/find-the-words-continuity-pivot-discovery-2026-08-06.md, ../projects/before-you-go/BYG-GOV-001.md, ../projects/before-you-go/BYG-DEC-001-foundation-v1.21.md, ../../STATE.md
 ---
 
 # casa-perez-hq ↔ ledger reconciliation (2026-08-10)
+
+**Resolution (2026-08-13), added above the original findings — the findings below are left exactly as filed on 2026-08-10, not edited to look cleaner in hindsight.** Jamie made the Founder Decision to restore both orphaned branches, after Solara independently confirmed this document's finding. Both merged:
+
+- `ledger`: `claude/find-the-words-setup-z361it` → `claude/casa-perez-kb-init-4hd2r8` (this repo's default branch) at commit `d3ff2b7`. A real three-way merge, not a ref move — this repo's default branch had gained six of its own commits (including this document's original version) since the branches diverged, so a fast-forward wasn't available. Git auto-resolved `CLAUDE.md` and `STATE.md`; no conflict markers, no content lost from either side. Verified after merging: `BYG-GOV-001` correctly reads **v1.2** in the default branch, and all of default's newer work (the 2026-08-04/05 Beto Discovery files, the participation-loop working hypothesis, this document itself) is intact alongside the restored 2026-08-06 work.
+- `find-the-words`: `claude/find-the-words-setup-z361it` → `main` at commit `2bcfc36`. `main` had not moved since the branches diverged, so this was a clean fast-forward — no merge commit needed. Verified after merging: `npm install`, `npm test` (17/17 passing, 5 test files), `npm run lint` (clean), and `npm run build` (production build succeeds) all pass against the restored code.
+
+**Per the Founder authorization's explicit preservation rule:** the now-visible Continuity Pivot Discovery synthesis (`find-the-words-continuity-pivot-discovery-2026-08-06.md`) remains Discovery only. This merge changed its *visibility* (readable from the default branch now), not its *status* — it is not Founder-approved, not a governance amendment, not a PRD change, not a data-model decision, and not implementation authorization for anything it discusses.
+
+**Both orphaned branches (in both repos) were left in place, not deleted.** No compelling technical reason to remove them — they're harmless once merged (git will just show them as fully merged/no-op), and keeping them costs nothing while preserving exact history of where this work actually originated.
+
+**No conflicts required a product decision.** Everything above was mechanical (line-level text merging, dependency install, test/build execution) — nothing surfaced that needed Jamie's judgment beyond the original authorization to proceed.
+
+---
+
+## Original findings (2026-08-10), unedited
 
 **Evidence-gathering only, per Jamie's explicit instruction.** Nothing was migrated, deleted, reorganized, or declared canonical as part of this pass. This is the first task run under the new Claude/Solara GitHub collaboration protocol — findings below are left as a repo artifact specifically so Solara's independent pass (if she runs one) can be compared against this one rather than relayed through Jamie.
 
