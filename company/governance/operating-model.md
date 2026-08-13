@@ -1,7 +1,7 @@
 ---
 status: canon
 owner: jamie
-last_reviewed: 2026-08-01
+last_reviewed: 2026-08-13
 depends_on:
 supersedes:
 related: ./roles.md
@@ -11,9 +11,11 @@ related: ./roles.md
 
 **Not governance for Casa Pérez itself.** This is an operating model for how the team — Jamie, Solara, and Claude Code — collaborates. It formalizes an operating rhythm that had already emerged naturally as work moved from conversation-based collaboration into a GitHub-centered workflow with `ledger` as institutional memory.
 
+**Amendment note (2026-08-13, Founder Decision):** the four phases below are unchanged — they still describe how work moves from open exploration to founder authorization to implementation. What changed is that "Primary participant(s)" is no longer a fixed AI job assignment per phase; roles within phases are fluid (see `./roles.md`). The one exception, unchanged and not fluid: Phase 2, Founder Decision, remains Jamie alone.
+
 ## Phase 1 — Discovery
 
-**Primary participants:** Jamie + Solara
+**Typically:** Jamie + Solara — not an exclusive assignment; see `./roles.md` on fluid roles and mutual review.
 
 **Purpose:** Explore before deciding.
 
@@ -39,7 +41,7 @@ This is the point where possibility becomes direction. Jamie determines what bec
 
 ## Phase 3 — Synthesis & Handoff
 
-**Usually led by:** Solara
+**Typically led by:** Solara — not exclusively; see `./roles.md`.
 
 **Purpose:** Translate a long discovery process into an implementation-ready handoff. This phase exists to reduce the amount of reverse engineering required before implementation.
 
@@ -56,7 +58,7 @@ Typical responsibilities include:
 
 ## Phase 4 — Implementation & Stewardship
 
-**Primary participant:** Claude Code
+**Typically:** Claude Code, as primary steward by default — not a permanent or exclusive assignment; see `./roles.md`.
 
 **Purpose:** Implement founder decisions while maintaining the integrity of the living system.
 
@@ -96,12 +98,12 @@ Regardless of phase, all three collaborators operate from the same principles:
 
 In most cases, the workflow now looks like this:
 
-1. Jamie and Solara explore, research, pressure-test, and refine ideas.
-2. Jamie makes the founder decision.
-3. Solara prepares a clean implementation handoff.
-4. Claude Code implements, documents, versions, and preserves the work within GitHub.
+1. Jamie and Solara explore, research, pressure-test, and refine ideas — typically, not exclusively.
+2. Jamie makes the founder decision. Always Jamie.
+3. Solara typically prepares a clean implementation handoff.
+4. Claude Code typically implements, documents, versions, and preserves the work within GitHub — as primary steward by default, not by permanent assignment.
 
-Implementation may surface new questions that require returning to discovery. That feedback loop is intentional and welcome — it doesn't mean the model failed, it means the model is working as intended.
+Both Claude and Solara retrieve directly from GitHub rather than relaying through Jamie (see `./roles.md`'s "Access" section), and Jamie can explicitly authorize either collaborator to work outside their typical step above, with the other reviewing. Implementation may surface new questions that require returning to discovery. That feedback loop is intentional and welcome — it doesn't mean the model failed, it means the model is working as intended.
 
 ---
 
