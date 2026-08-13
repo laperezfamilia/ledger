@@ -1,10 +1,10 @@
 ---
 status: canon
 owner: jamie
-last_reviewed: 2026-08-01
+last_reviewed: 2026-08-06
 depends_on: ./BYG-GOV-001.md, ./BYG-PRD-001-foundation-v1.17.md, ./BYG-DES-001.md
 supersedes:
-related: ./BYG-UX-001-amendments.md, ./BYG-DEC-001-foundation-v1.21.md
+related: ./BYG-UX-001-amendments.md, ./BYG-DEC-001-foundation-v1.21.md, ./placeholder-library-v0.1.md
 ---
 
 # BYG-UX-001: Before You Go — Screen & Interaction Design
@@ -99,7 +99,7 @@ The Placeholder Library is a **first-class teaching surface** (Implicit Teaching
 
 **Content status: Foundational Working Library, Draft Batch 1 (Version 0.1) — supersedes the provisional 6-example set below.** Approximately 100 draft placeholders (Foundation Batch) now exist as the first working library, validated against the constitution above. **Architecture and governing philosophy are locked; individual placeholder wording remains intentionally editable** through future QA passes — this is candidate content, not locked production copy.
 
-*Note: the actual ~100 Foundation Batch placeholders, and the 80 that followed (§2.6), are tracked in a separate content asset (spreadsheet with status/QA columns) rather than reproduced in this governance document. This section records the governing decisions the batches were drafted against and QA'd with — not the content itself.*
+*Note (updated 2026-08-06): the actual placeholder entries were originally tracked only in an external spreadsheet, not reproduced in this governance document — this section recorded the governing decisions the batches were drafted against and QA'd with, not the content itself. Jamie has since recovered that content; it now lives at `./placeholder-library-v0.1.md` (171 active entries, verified against Decisions #25-31's documented counts and rewrites before being committed). This section remains the governing philosophy; that file is the content.*
 
 **Provisional starting set (pre-dates this constitution — superseded by Draft Batch 1 above, kept here for history only):**
 - "I'm grabbing a coffee before my train…" *(immediate)*

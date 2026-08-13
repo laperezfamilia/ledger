@@ -1,10 +1,10 @@
 ---
 status: working
 owner: jamie
-last_reviewed: 2026-08-02
+last_reviewed: 2026-08-06
 depends_on: ./README.md
 supersedes:
-related: ./README.md, ./adopted-family-design-filter.md, ../../../casa-perez/FOUNDATION.md
+related: ./README.md, ./adopted-family-design-filter.md, ../../../casa-perez/FOUNDATION.md, ../../../casa-perez/projects/before-you-go/BYG-GOV-001.md, ../../../casa-perez/characters/character-voice-methodology.md
 ---
 
 # Emotional Role Architecture (Working Thesis)
@@ -30,10 +30,12 @@ Products do not simply occupy markets. They occupy emotional roles within people
 
 | Product | Emotional role |
 |---|---|
-| Find the Words | Trusted preparation partner |
-| Sofía | Older sister who introduces learners to the family |
+| Find the Words | Trusted preparation partner (filled by Sofía — see note below) |
+| Sofía (Casa Pérez Group Chat) | Older sister who introduces learners to the family |
 | Casa Pérez Group Chat | Adopted family |
 | ¡Agrupa! | Family game night |
+
+**Note added 2026-08-06:** this table originally listed "Find the Words" and "Sofía" as if unrelated rows. They aren't — as of the Founder Decision recorded in `BYG-DEC-001-foundation-v1.21.md` Decision #32, Sofía fills the Find the Words role too, just in a different relational register (preparation companion, not older sister). This is exactly the pattern this document's own 2026-08-02 clarification already predicted: "the same character can generate many product surfaces; the role belongs to the surface, not to the person underneath it." See `../../../casa-perez/characters/character-voice-methodology.md`'s fourth lens for the Find the Words register specifically.
 
 ## The goal
 

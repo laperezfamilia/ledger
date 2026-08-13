@@ -1,15 +1,15 @@
 ---
 status: canon
 owner: jamie
-last_reviewed: 2026-08-01
+last_reviewed: 2026-08-06
 depends_on: ./BYG-GOV-001.md, ./BYG-DES-001.md
 supersedes:
-related: ./BYG-PRD-001.md, ./BYG-PRD-001-amendments.md, ./BYG-UX-001-foundation-v1.6.md, ./BYG-DEC-001-foundation-v1.21.md, ../../governance/GOV-004-product-scope-safety-responsible-use.md
+related: ./BYG-PRD-001.md, ./BYG-PRD-001-amendments.md, ./BYG-UX-001-foundation-v1.6.md, ./BYG-DEC-001-foundation-v1.21.md, ../../governance/GOV-004-product-scope-safety-responsible-use.md, ./find-the-words-implementation-roadmap.md
 ---
 
 # BYG-PRD-001: Before You Go — MVP Product Specification
 
-**Version 1.17 | Status: Foundation v1.1, Approved Build Authority — pending audio validation deliverable (§5)**
+**Version 1.17 | Status: Foundation v1.2, Approved Build Authority — pending audio validation deliverable (§5)**
 Governs against: BYG-GOV-001 (Product Constitution). Voice governed by: BYG-DES-001 (Voice & Design Language). Screen-level UX: BYG-UX-001.
 
 **Lineage note (2026-08-01):** filed under this distinguishing filename, not `BYG-PRD-001.md`, because `BYG-PRD-001.md` and `BYG-PRD-001-amendments.md` already hold earlier content (§7 "Post-Capture Decision Tree & Edit/Refine Allowances," §7a "Conversation Continuity") that **does not match this document** — different §7 topic entirely, no Edit Situation/Refine dual-allowance model, no Context/Preparation continuity data model anywhere here. Per Jamie's explicit instruction, both sources are preserved as-is, unreconciled, until provenance is investigated. See `./BYG-PRD-001.md` and `./BYG-PRD-001-amendments.md` for the earlier material and the matching note there. Tracked in `STATE.md` org debt.
@@ -100,6 +100,8 @@ When a new situation resembles a past one:
 
 *Flag: this is a recommendation, not a locked decision. Confirm during architecture review. Semantic similarity search is the fallback if tagging proves too coarse in testing. Owner: Claude; trigger: structured pack schema and saved-history model finalized (BYG-DEC-001 parking lot).*
 
+*Trigger status (2026-08-06): the structured pack schema half of this trigger is now complete — `src/lib/ready-packs/types.ts` in `casa-perez-hq/find-the-words`. The saved-history model half is not: no persistence exists yet, and it depends on an accounts/auth decision not yet made anywhere in `ledger`. This flag remains deferred, not yet eligible for architecture review, until both halves are met — surfaced by implementation, not resolved by it.*
+
 *CEFR interaction (§18): situation-matching for retrieval must include CEFR level as part of the match key, not just situation type + entities. A same-level revisit (e.g., "Walking Athena" requested again at the learner's existing A1 pack) is a retrieval-with-variation case per this section. A different-level request for the same situation (§18's "Try this at another level") is a distinct, deliberate new generation — not a retrieval-and-vary case — and must not blend register/complexity across levels.*
 
 *Dialect interaction (§20): dialect is also part of the match key, alongside CEFR level. Unlike level, dialect is not something learners are expected to deliberately vary pack-to-pack (§20) — so a retrieval match should ordinarily use the learner's current `default_dialect` rather than surfacing a dialect switcher. Never blend Mexican and Peninsular Spanish within a single retrieved-and-varied pack.*
@@ -144,6 +146,13 @@ Practical fields only, per BYG-GOV-001 §8:
 No relationship, character, or narrative-continuity fields.
 
 ## 11. Build Stack
+
+**Correction note (2026-08-06):** this section originally named FlutterFlow as the primary build environment (text preserved below for history, per this repository's practice of correcting rather than silently erasing). That was superseded by a later, more specific Founder Decision — the 2026-08-03 stack review recorded in `find-the-words-implementation-roadmap.md` and `STATE.md` — which approved **Next.js (React), Vercel, Supabase, Paddle, and Anthropic's API behind a provider abstraction layer** instead. Implementation is already underway against the newer stack (`casa-perez-hq/find-the-words`), so this is documentation drift being reconciled, not an open design question.
+
+**Current build stack:** see `find-the-words-implementation-roadmap.md` ("Technology Stack," 2026-08-03 Founder Decision) for the authoritative, current record. That decision also resolves this section's own open flag below: no separate backend service for V1 — Next.js API routes/Server Actions serve as the AI orchestration and data-access layer, in place of the FlutterFlow-era assumption that this needed its own separate scoping.
+
+**Original text (superseded, kept for history only):**
+
 FlutterFlow is the primary build environment. FlutterFlow AI generates the majority of screens; Jamie's role is Creative Director rather than UI engineer. Codex provides engineering support rather than initial architecture.
 
 The AI orchestration backend (pack generation, refinement, retrieval, audio pipeline) is a distinct engineering surface from the FlutterFlow screens and needs its own scoping.

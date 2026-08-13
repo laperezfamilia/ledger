@@ -1,18 +1,20 @@
 ---
 status: canon
 owner: jamie
-last_reviewed: 2026-08-01
+last_reviewed: 2026-08-06
 depends_on:
 supersedes:
-related: ../../governance/GOV-004-product-scope-safety-responsible-use.md, ./BYG-PRD-001-foundation-v1.17.md, ./BYG-DES-001.md, ./BYG-UX-001-foundation-v1.6.md, ./BYG-DEC-001-foundation-v1.21.md
+related: ../../governance/GOV-004-product-scope-safety-responsible-use.md, ./BYG-PRD-001-foundation-v1.17.md, ./BYG-DES-001.md, ./BYG-UX-001-foundation-v1.6.md, ./BYG-DEC-001-foundation-v1.21.md, ../../characters/character-voice-methodology.md
 ---
 
 # BYG-GOV-001: Before You Go — Product Constitution
 
-**Version 1.1 | Status: Locked — Foundation v1.1, Approved Build Authority**
+**Version 1.2 | Status: Locked — Foundation v1.2, Approved Build Authority**
 Companion documents: BYG-PRD-001 (MVP Specification), BYG-DES-001 (Voice & Design Language), BYG-DEC-001 (Decision Log & Parking Lot)
 
 **Correction note (2026-08-01):** this file previously stated `status: fulfilled`, concluding — based on circumstantial evidence — that BYG-GOV-001 was never authored separately and its intended content was realized as `../../governance/GOV-004-product-scope-safety-responsible-use.md`. That conclusion was wrong. Jamie located the actual document; it is a real, distinct, locked Product Constitution sharing essentially no content with GOV-004 (which governs cross-product conversational safety scope specifically, not Before You Go's identity, mission, or non-goals). GOV-004 is a later, additional document filling a gap this Constitution never covered — not a replacement for it. See `../../governance/GOV-004-product-scope-safety-responsible-use.md`'s lineage note for the corresponding correction.
+
+**Amendment note (2026-08-06, Founder Decision — v1.1 → v1.2):** §9 is amended below. This is not a correction of drift — implementation work in `find-the-words` surfaced that this section, as originally written, contradicted the roadmap's own repeated use of Sofía as Find the Words' coaching companion. Rather than resolve that contradiction by conforming implementation to the older text, Jamie made an explicit Founder Decision that the Constitution itself had fallen behind a product understanding that had genuinely evolved: Sofía's identity is a cross-product connective thread, while product *architecture* — memory, application state, codebases — remains permanently separate. Full record, including the discovery's provenance, in `BYG-DEC-001-foundation-v1.21.md` and `STATE.md`. Per the Amendment Principle (§13): explicit rationale (this note), version change (1.1 → 1.2), reconciliation across the PRD and Decision Log (see below — no PRD content change was needed, as PRD never named a character; Decision Log updated).
 
 ---
 
@@ -63,11 +65,15 @@ It does not build emotional continuity, an evolving relationship, shared social 
 **Shorthand:** *Personalize the preparation, not the affection.*
 
 ## 9. Casa Pérez Boundary
-Before You Go and Casa Pérez Spanish are permanently separate systems.
+
+Before You Go and Casa Pérez Spanish remain permanently separate **systems**:
 - Before You Go delivers practical readiness, on demand, without relationship continuity.
 - Casa Pérez delivers relationship, story, and world.
+- **These must never blend, share memory, share application state, or share product architecture.** Someone should be able to discover, use, and love Before You Go without ever knowing Casa Pérez exists — and the reverse.
 
-These must never blend, share memory, or share characters.
+**Amended, 2026-08-06 (Founder Decision):** a character's *identity* is not the same thing as a product's architecture. Sofía specifically may appear in both — occupying a distinct relational role in each — without that crossing this boundary: in Before You Go, she is the learner's preparation companion; in Casa Pérez, a member of the Pérez family; on her YouTube channel, an educator and guide. Same person, different relational register per product, consistent with the existing product/character distinction in `emotional-role-architecture.md` ("the role belongs to the surface, not to the person underneath it"). This is a connective thread, not a merger — no shared memory, no shared application state, no shared product architecture, and each product's own purpose and user promise stays fully intact. This amendment is scoped to Sofía specifically, per the Founder Decision that made it; it does not by itself authorize other characters to cross this boundary.
+
+**Original text (2026-08-01–2026-08-06, superseded by the above, kept for history):** "Before You Go and Casa Pérez Spanish are permanently separate systems. Before You Go delivers practical readiness, on demand, without relationship continuity. Casa Pérez delivers relationship, story, and world. These must never blend, share memory, or share characters."
 
 ## 10. Version 1 Non-Goals
 Explicitly out of scope for V1:
